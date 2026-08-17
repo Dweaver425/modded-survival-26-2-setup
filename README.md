@@ -41,7 +41,10 @@ Optional shaders and resource packs are included in the client ZIPs but disabled
 
 ## 2. Extract The Pack Outside `.minecraft`
 
-Do not place the ZIP in a `mods` folder. Extract the entire ZIP first.
+Create a new, empty folder for the selected pack and extract the entire ZIP into that folder. Do not place the ZIP in a `mods` folder, do not extract it over `.minecraft`, and do not copy the pack's files into `.minecraft`.
+
+> [!WARNING]
+> Leave the normal `.minecraft` folder unchanged. Every modded client pack must have its own separate game directory.
 
 ### Windows
 
@@ -51,8 +54,8 @@ Do not place the ZIP in a `mods` folder. Extract the entire ZIP first.
    C:\Users\YOUR_NAME\Minecraft Installations\Modded Survival 26.2 - PACK NAME
    ```
 
-2. Right-click the client ZIP and select **Extract All**.
-3. Extract its contents into the new folder.
+2. Right-click the downloaded client ZIP and select **Extract All**.
+3. Choose the new folder above as the extraction destination.
 4. Open that folder and confirm that you immediately see `mods`, `config`, and the installation README.
 
 ### macOS
@@ -63,8 +66,8 @@ Do not place the ZIP in a `mods` folder. Extract the entire ZIP first.
    ~/Minecraft Installations/Modded Survival 26.2 - PACK NAME
    ```
 
-2. Double-click the client ZIP to extract it.
-3. Move the extracted contents into the new folder.
+2. Double-click the downloaded client ZIP to extract it.
+3. Move the extracted contents into the new folder above, not into `~/Library/Application Support/minecraft`.
 4. Confirm that `mods` and `config` are directly inside the selected folder.
 
 If you see another identically named folder before reaching `mods`, select the inner folder as the game directory.
@@ -88,15 +91,20 @@ If `fabric-loader-0.19.3-26.2` already appears in Minecraft Launcher, you may sk
 1. Open **Minecraft Launcher**.
 2. Select **Minecraft: Java Edition > Installations**.
 3. Select **New installation**.
-4. Enter a clear name, such as `Modded Survival 26.2 - Voxy`.
+4. Change **Name** to a clear label matching the downloaded pack, such as `Modded Survival 26.2 - Voxy` or `Modded Minecraft Client DH`.
 5. Under **Version**, choose:
 
    ```text
    release fabric-loader-0.19.3-26.2
    ```
 
-6. Under **Game Directory**, select the extracted pack folder that directly contains `mods` and `config`.
-7. Do not use the default `.minecraft` directory for this installation.
+6. Change **Game Directory** to the new extracted pack folder that directly contains `mods` and `config`.
+7. Leave **Java Executable** set to `<Use bundled Java runtime>`.
+8. Do not use the default `.minecraft` directory for this installation.
+
+![Minecraft Launcher installation name, Fabric version, and separate game directory](docs/images/minecraft-launcher-game-directory.png)
+
+The path in the screenshot is an example from Dylan's PC. Each player must browse to the new folder they created on their own computer. Ignore the launcher's suggestion that some mods might require `.minecraft`; do not select **click here** for this pack.
 
 On macOS, press `Command + Shift + G` in the folder picker if you need to enter the game-directory path manually.
 
@@ -105,6 +113,7 @@ On macOS, press `Command + Shift + G` in the folder picker if you need to enter 
 1. While editing the launcher installation, open **More Options**.
 2. Find the JVM argument beginning with `-Xmx`.
 3. Change only that value to the recommendation for your pack.
+4. Leave **Java Executable** on the bundled Java runtime and leave the remaining JVM arguments unchanged.
 
 Examples:
 
@@ -117,7 +126,9 @@ Examples:
 
 For the Windows Max Voxy pack, use `-Xmx12G`. Do not give every pack 12 GB. More memory is not automatically faster, and allocating too much can leave too little for the operating system, shaders, Distant Horizons, or Voxy's native memory.
 
-Do not delete the rest of the launcher's JVM arguments and do not add a second `-Xmx` value.
+![Minecraft Launcher bundled Java runtime and JVM arguments](docs/images/minecraft-launcher-jvm-options.png)
+
+The screenshot shows Dylan's high-memory example with `-Xms8G -Xmx16G`. Friends should not copy the entire line. Change only the existing `-Xmx` value to the recommendation in the pack table, do not add a second `-Xmx`, and do not delete the remaining launcher arguments.
 
 ## 6. Save And Test The Installation
 
