@@ -1,0 +1,184 @@
+# Third-Party Project Credits
+
+This distribution is a community modpack. Dylan Weaver did not create the third-party mods, libraries, resource packs, shaders, Fabric Loader, or Minecraft listed below.
+
+## Pack Authorship
+
+- **Pack assembly, configuration, compatibility testing, and documentation:** Dylan Weaver (Minecraft username: Stixity)
+- **Original pack contribution:** one coordinated Fabric 26.2 server/client distribution that supports Voxy Server for Dylan's Voxy client and Distant Horizons for friends using DH clients.
+- **Only original mod component:** `indium-server-dummy.jar`, a metadata-only dedicated-server compatibility shim created by Dylan Weaver. It contains no executable code and is documented in [`original-components/indium-server-dummy`](original-components/indium-server-dummy/README.md).
+- Dylan does **not** claim authorship or ownership of Voxy, Voxy Server, Distant Horizons, Fabric, Minecraft, or any other project in this ledger.
+- Minecraft is created by Mojang Studios. Fabric is created and maintained by the FabricMC project.
+
+Credits do not replace or modify any project license. Each project remains the property of its respective author or team. Use the linked official project page for current license terms, support, and downloads.
+
+Generated from the exact distributed files on 2026-08-17T00:36:34-04:00. Modrinth matches are verified by SHA-512 file hash.
+
+### Pack labels
+
+`Windows Voxy`, `Windows DH`, `Windows No LOD`, `Mac DH`, `Mac No LOD`, `Extreme Low End`, `Server`, `Resource Library`, and `Shader Library`.
+
+## Mods And Libraries
+
+| Project | Credited author(s) | Version | License | Distributed in | File |
+| --- | --- | --- | --- | --- | --- |
+| [Sodium](https://modrinth.com/mod/sodium) | JellySquid (jellysquid3) | mc26.2-0.9.1-fabric | [LicenseRef-Polyform-Shield-1.0.0](https://github.com/CaffeineMC/sodium/blob/dev/LICENSE.md) | Extreme Low End, Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `sodium-fabric-0.9.1+mc26.2.jar` |
+| [Searchables](https://modrinth.com/mod/searchables) | Jaredlll08 | 1.0.1 | MIT | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `Searchables-fabric-26.2-1.0.1.jar` |
+| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | juliand665, LostLuma | 3.11.9 | MIT | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `dynamic-fps-3.11.9+minecraft-26.2.0-fabric.jar` |
+| [Polytone](https://modrinth.com/mod/polytone) | MehVahdJukaar, Plantkillable | 26.2-5.10.2 | GPL-3.0-or-later | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `polytone-fabric-26.2-5.10.2.jar` |
+| [Zoomify (Zoom)](https://modrinth.com/mod/zoomify) | isXander | 2.16.1+26.2 | LGPL-3.0-only | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `zoomify-2.16.1+26.2.jar` |
+| [Ixeris](https://modrinth.com/mod/ixeris) | decce | 4.5.2+26.2-fabric | [LGPL-3.0-only](https://github.com/decce6/Ixeris/blob/master/LICENSE) | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `Ixeris-4.5.2+26.2-fabric.jar` |
+| [Prickle](https://modrinth.com/mod/prickle) | Darkhax | 26.2.0.3 | LGPL-2.1-only | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `PrickleMC-fabric-MC26.2-26.2.0.3.jar` |
+| [Player Animation Library](https://modrinth.com/mod/player-animation-library) | Zigy, dima_dencep | 1.2.5 | MIT | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `PlayerAnimationLibMerged-1.2.5+mc.26.2.jar` |
+| [Stoneworks](https://modrinth.com/mod/stoneworks) | Fuzs | 26.2.0 | MPL-2.0 | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `Stoneworks-v26.2.0-mc26.2.x-Fabric.jar` |
+| [Lithostitched](https://modrinth.com/mod/lithostitched) | Apollo | 1.7.13-fabric-26.2 | MIT | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `lithostitched-1.7.13-fabric-26.2.jar` |
+| [Just Enough Items (JEI)](https://modrinth.com/mod/jei) | mezz | 30.16.0.125 | MIT | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `jei-26.2-fabric-30.16.0.125.jar` |
+| [Puzzle](https://modrinth.com/mod/puzzle) | PuzzleMC, Motschen | 2.3.1+26.2-fabric | MIT | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `puzzle-fabric-2.3.1+26.2.jar` |
+| [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) | Ivan Molodetskikh (YaLTeR) | 26.2-2.31-fabric | BSD-3-Clause | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `MouseTweaks-fabric-mc26.2-2.31.jar` |
+| [Text Placeholder API](https://modrinth.com/mod/placeholder-api) | Patbox | 3.1.0-beta.1+26.2 | LGPL-3.0-only | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `placeholder-api-3.1.0-beta.1+26.2.jar` |
+| [Resourceful Config](https://modrinth.com/mod/resourceful-config) | ThatGravyBoat | 5.0.0 | MIT | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `ResourcefulConfig-5.0.0.jar` |
+| [Cooking for Blockheads](https://modrinth.com/mod/cooking-for-blockheads) | BlayTheNinth, ZerotS | 26.2.0.2+fabric-26.2 | [LicenseRef-All-Rights-Reserved](https://mods.twelveiterations.com/permissions) | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `cookingforblockheads-fabric-26.2-26.2.0.2.jar` |
+| [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | RK_01 | 1.16.2+26.2-fabric | LGPL-3.0-or-later | Extreme Low End, Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `ImmediatelyFast-Fabric-1.16.2+26.2.jar` |
+| [Controlling](https://modrinth.com/mod/controlling) | Jaredlll08 | 26.2.2 | MIT | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `Controlling-fabric-26.2-26.2.2.jar` |
+| [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | Traben | 7.1.1-fabric-26.2 | LGPL-3.0-only | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `entity_texture_features-7.1.1-26.2-fabric.jar` |
+| [Main Menu Credits](https://modrinth.com/mod/main-menu-credits) | isXander | 1.4.0+26.2 | LGPL-3.0-only | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `main-menu-credits-1.4.0+26.2-universal.jar` |
+| [Config Manager](https://modrinth.com/mod/configmanager) | TheBossMagnus | 1.1.3 | LGPL-3.0-only | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `ConfigManager-fabric-26.1_26.2-1.1.3.jar` |
+| [Macaw's Windows](https://modrinth.com/mod/macaws-windows) | SketchMacaw | 2.4.2 | LicenseRef-All-Rights-Reserved | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `mcw-windows-2.4.2-mc26.2fabric.jar` |
+| [Animatica Refabricated](https://modrinth.com/mod/animaticarefabricated) | FoundationGames, coredex-source | 0.6.3+26.2 | LGPL-3.0-only | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `animatica-0.6.3+26.2.jar` |
+| [Terralith](https://modrinth.com/mod/terralith) | Starmute, catter1, Apollo, TheKingWhale | 2.6.4 | [LicenseRef-Stardust-Labs-License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt) | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `Terralith_26.2_v2.6.4.jar` |
+| [[EMF] Entity Model Features](https://modrinth.com/mod/entity-model-features) | Traben | 3.2.6-fabric-26.2 | LGPL-3.0-only | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `entity_model_features-3.2.6-26.2-fabric.jar` |
+| [More Delight (for Farmer's Delight)](https://modrinth.com/mod/more-delight) | Axperty | 26.06.23-26.2-fabric | [MIT](https://github.com/axperty/moredelight/blob/1.21-neoforge/LICENSE) | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `moredelight-26.06.23-26.2-fabric.jar` |
+| [Better Combat](https://modrinth.com/mod/better-combat) | Daedelus | 3.2.2+26.2-fabric | LicenseRef-All-Rights-Reserved | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `bettercombat-fabric-3.2.2+26.2.jar` |
+| [Crate Delight](https://modrinth.com/mod/crate-delight) | Axperty | 26.07.01-26.2-fabric | [MIT](https://github.com/axperty/cratedelight/blob/1.21.7-neoforge/LICENSE) | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `cratedelight-26.07.01-26.2-fabric.jar` |
+| [Farmer's Delight Refabricated](https://modrinth.com/mod/farmers-delight-refabricated) | MehVahdJukaar, ChrysanthCow, cassiancc | 26.2-3.6.14 | MIT | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `FarmersDelight-26.2-3.6.14+refabricated.jar` |
+| [Rustic Delight](https://modrinth.com/mod/rustic-delight) | PhantomWing | 1.7.0 | MIT | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `rusticdelight-fabric-26.2-1.7.0.jar` |
+| [More Chat History](https://modrinth.com/mod/morechathistory) | JackFred | 2.0.0 | CC0-1.0 | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `morechathistory-2.0.0.jar` |
+| [VeinMiner Enchantment](https://modrinth.com/mod/veinminer-enchantment) | Miraculixx | 2.11.2 | LGPL-3.0-only | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `veinminer-enchant-2.11.2.jar` |
+| [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) | Lortseam | 1.3.1 | GPL-3.0-only | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `bettermounthud-1.3.1.jar` |
+| [Ube's Delight](https://modrinth.com/mod/ubes-delight) | ChefMooon | 26.2-0.4.14 | MIT | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `ubesdelight-fabric-26.2-0.4.14.jar` |
+| [Beautify: Refabricated](https://modrinth.com/mod/beautify-refabricated) | Suel_ki | 2.0.0+26.2 | MIT | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `beautify-fabric-2.0.0+26.2.jar` |
+| [Visual Workbench](https://modrinth.com/mod/visual-workbench) | Fuzs | 26.2.1 | MPL-2.0 | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `VisualWorkbench-v26.2.1-mc26.2.x-Fabric.jar` |
+| [Entity Culling](https://modrinth.com/mod/entityculling) | tr7zw | 1.10.5 | [LicenseRef-tr7zw-Protective-License](https://github.com/tr7zw/EntityCulling/blob/1.18/LICENSE-EntityCulling) | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `entityculling-fabric-1.10.5-mc26.2.jar` |
+| [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) | Fuzs | 26.2.3 | MPL-2.0 | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `PuzzlesLib-v26.2.3-mc26.2.x-Fabric.jar` |
+| [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | xaero96 | fabric-26.2-1.44.2 | LicenseRef-All-Rights-Reserved | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `xaeroworldmap-fabric-26.2-1.44.2.jar` |
+| [TerraBlender](https://modrinth.com/mod/terrablender) | Adubbz | 26.2.0.0.2 | [LGPL-3.0-only](https://github.com/Glitchfiend/TerraBlender/blob/TB-1.19.3-2.1.x/LICENSE) | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `TerraBlender-fabric-26.2-26.2.0.0.2.jar` |
+| [LambDynamicLights - Dynamic Lights](https://modrinth.com/mod/lambdynamiclights) | LambdAurora | 4.12.2+26.2 | [LicenseRef-Lambda-License](https://github.com/LambdAurora/LambDynamicLights/blob/1.21.5/LICENSE) | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `lambdynamiclights-4.12.2+26.2.jar` |
+| [Chunky](https://modrinth.com/mod/chunky) | pop4959 | 1.5.3 | GPL-3.0-only | Mac No LOD, Server, Windows No LOD, Windows Voxy | `Chunky-Fabric-1.5.3.jar` |
+| [BetterF3](https://modrinth.com/mod/betterf3) | cominixo, TreyRuffy | 19.0.0 | MIT | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `BetterF3-19.0.0-Fabric-26.2.jar` |
+| [Shogi](https://modrinth.com/mod/shogi) | BlayTheNinth | 26.2.0.4+fabric-26.2 | [LicenseRef-All-Rights-Reserved](https://mods.twelveiterations.com/permissions) | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `shogi-fabric-26.2-26.2.0.4.jar` |
+| [e4mc](https://modrinth.com/mod/e4mc) | skyevg | 6.2.0-fabric-modern | MIT | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `e4mc-fabric-6.2.0-modern.jar` |
+| [Cloth Config API](https://modrinth.com/mod/cloth-config) | shedaniel | 26.2.155+fabric | LGPL-3.0-only | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `cloth-config-26.2.155.jar` |
+| [Continuity](https://modrinth.com/mod/continuity) | PepperCode1 | 3.0.1+26.2 | LGPL-3.0-only | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `continuity-3.0.1+26.2.jar` |
+| [Crash Assistant](https://modrinth.com/mod/crash-assistant) | KostromDan | 1.11.11 | [LicenseRef-LicenseRef-KostromDan-MML-1.1.3](https://github.com/KostromDan/Crash-Assistant/blob/1.19-1.20.1/LICENSE.md) | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `CrashAssistant-fabric-26.2-1.11.11.jar` |
+| [OptiGUI](https://modrinth.com/mod/optigui) | opekope2 | 2.3.0-beta.10+26.2 | LGPL-3.0-or-later | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `optigui-2.3.0-beta.10+26.2.jar` |
+| [Better Block Entities](https://modrinth.com/mod/better-block-entities) | ceeden | 1.3.7+mc26.2 | LGPL-3.0-or-later | Extreme Low End, Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `bbe-fabric-1.3.7+mc26.2.jar` |
+| [Iris Shaders](https://modrinth.com/mod/iris) | coderbot, IMS212, Justsnoopy30, FoundationGames | 1.11.2+26.2-fabric | LGPL-3.0-only | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `iris-fabric-1.11.2+mc26.2.jar` |
+| [Fish of Thieves](https://modrinth.com/mod/fish-of-thieves) | SteveKunG, PloyiinGz, Gucc1Guy | 26.2.1.1-fabric | MIT | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `fish_of_thieves-mc26.2-v26.2.1.1-fabric.jar` |
+| [VeinMiner](https://modrinth.com/mod/veinminer) | Miraculixx, Max Bossing | 2.11.2 | AGPL-3.0-only | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `veinminer-fabric-2.11.2.jar` |
+| [Cristel Lib](https://modrinth.com/mod/cristel-lib) | Cristelknight | fabric-26.2-3.1.11 | [CC-BY-NC-ND-4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `cristellib-fabric-26.2-3.1.11.jar` |
+| [Lithium](https://modrinth.com/mod/lithium) | JellySquid, 2No2Name | mc26.2-0.25.2-fabric | LGPL-3.0-only | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `lithium-fabric-0.25.2+mc26.2.jar` |
+| [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges) | SketchMacaw | 3.1.2 | LicenseRef-All-Rights-Reserved | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `mcw-bridges-3.1.2-mc26.2fabric.jar` |
+| [FallingTree](https://modrinth.com/mod/fallingtree) | Rakambda | 26.2-26.2.0.3 | LGPL-3.0-only | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `FallingTree-26.2-25.jar` |
+| [Voxy Server](https://modrinth.com/mod/voxyserver) | dripps | 1.2.4 | LGPL-3.0-only | Server, Windows Voxy | `VoxyServer-1.2.4-26.2.jar` |
+| [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) | FabricMC | 1.13.12+kotlin.2.4.0 | Apache-2.0 | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar` |
+| [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) | SuperMartijn642 | 1.3.12-fabric-mc26.2 | LicenseRef-All-Rights-Reserved | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `fusion-1.3.12-fabric-mc26.2.jar` |
+| [Distant Horizons](https://modrinth.com/mod/distanthorizons) | James Seibel, Leonardo Amato, Cola, coolGi, Ran, Leetom, pshsh | 3.2.0-b-26.2 | LGPL-3.0-only | Server | `DistantHorizons-3.2.0-b-26.2-fabric-neoforge.jar` |
+| [Easy Magic](https://modrinth.com/mod/easy-magic) | Fuzs | 26.2.0 | MPL-2.0 | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `EasyMagic-v26.2.0-mc26.2.x-Fabric.jar` |
+| [Macaw's Roofs](https://modrinth.com/mod/macaws-roofs) | SketchMacaw | 2.3.2 | LicenseRef-All-Rights-Reserved | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `mcw-roofs-2.3.3-mc26.2fabric.jar` |
+| [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl) | isXander | 3.9.5+26.2-fabric | LGPL-3.0-or-later | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `yet_another_config_lib_v3-3.9.5+26.2-fabric.jar` |
+| [Storage Delight](https://modrinth.com/mod/storage-delight) | Axperty | 26.07.01-26.2-fabric | [MIT](https://github.com/axperty/storagedelight/blob/1.21.9-neoforge/LICENSE) | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `storagedelight-26.07.01-26.2-fabric.jar` |
+| [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) | MisterPeModder | 5.4.0+26.2-fabric | MIT | Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `shulkerboxtooltip-fabric-5.4.0+26.2.jar` |
+| [SuperMartijn642's Config Lib](https://modrinth.com/mod/supermartijn642s-config-lib) | SuperMartijn642 | 1.1.8-fabric-mc26.2 | LicenseRef-All-Rights-Reserved | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `supermartijn642configlib-1.1.8-fabric-mc26.2.jar` |
+| [Sodium Extra](https://modrinth.com/mod/sodium-extra) | FlashyReese | mc26.2-0.9.3+fabric | LGPL-3.0-only | Extreme Low End, Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `sodium-extra-fabric-0.9.3+mc26.2.jar` |
+| [Variants&Ventures](https://modrinth.com/mod/variants-and-ventures) | Faboslav | fabric-1.0.26+mc26.2 | [LicenseRef-CC-BY-NC-ND-4.0](https://raw.githubusercontent.com/Faboslav/variants-and-ventures/master/LICENSE.txt) | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `variantsandventures-fabric-1.0.26+mc26.2.jar` |
+| [Macaw's Stairs](https://modrinth.com/mod/macaws-stairs) | Sketch Macaw, Peachy Macaw | 1.0.2 | LicenseRef-All-Rights-Reserved | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `mcw-stairs-1.0.2-mc26.2fabric.jar` |
+| [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions) | Darkhax | 26.2.0.1 | LGPL-2.1-only | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `EnchantmentDescriptions-fabric-MC26.2-26.2.0.1.jar` |
+| [Mythic Upgrades](https://modrinth.com/mod/mythic-upgrades) | trique | 5.1.0 | MIT | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `mythicupgrades-fabric-26.2-5.1.0.jar` |
+| [Towns and Towers](https://modrinth.com/mod/towns-and-towers) | Kubek, Biban_Auriu, Cristelknight999 | 1.13.11 | CC-BY-NC-SA-4.0 | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `t_and_t-fabric-neoforge-1.13.11.jar` |
+| [Controlify (Controller support)](https://modrinth.com/mod/controlify) | isXander | 3.1.0 | LGPL-3.0-or-later | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `controlify-3.1.0+26.2-fabric.jar` |
+| [Mod Menu](https://modrinth.com/mod/modmenu) | Prospector, haykam821, gniftygnome, TerraformersMC | 20.0.1 | MIT | Extreme Low End, Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `modmenu-20.0.1.jar` |
+| [Better Archeology](https://modrinth.com/mod/better-archeology) | Pandarix | 26.2.x-1.3.8 | MIT | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `betterarcheology-fabric-26.2-1.3.8.jar` |
+| [Structory: Towers](https://modrinth.com/mod/structory-towers) | Botany, Starmute, catter1 | 1.0.17 | [LicenseRef-Stardust-Labs-License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt) | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `Structory_Towers_26.2_v1.0.17.jar` |
+| [Macaw's Doors](https://modrinth.com/mod/macaws-doors) | Sketch Macaw & Peachy Macaw | 1.1.5 | MIT | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `mcw-doors-1.1.5-mc26.2fabric.jar` |
+| [Indium Server Dummy (compatibility shim)](original-components/indium-server-dummy/README.md) | Dylan Weaver (Stixity) | 1.0.0 | Pack-original metadata component; redistribution with this modpack permitted by the author | Server | `indium-server-dummy.jar` |
+| [Voxy Extra](https://modrinth.com/mod/voxy-extra) | ImGRUI | 0.2.2 | LGPL-3.0-only | Windows Voxy | `voxy-extra-0.2.2.jar` |
+| [Diagonal Fences](https://modrinth.com/mod/diagonal-fences) | Fuzs, XFactHD | 26.2.0 | MPL-2.0 | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `DiagonalFences-v26.2.0-mc26.2.x-Fabric.jar` |
+| [Farming for Blockheads](https://modrinth.com/mod/farming-for-blockheads) | BlayTheNinth | 26.2.0.3+fabric-26.2 | [LicenseRef-All-Rights-Reserved](https://mods.twelveiterations.com/permissions) | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `farmingforblockheads-fabric-26.2-26.2.0.3.jar` |
+| [Backpacks!](https://modrinth.com/mod/vanilla-backpacks) | ElGeroIngles, Mitsaori, EclipseStudios | 1.3.5 | [Apache-2.0](https://choosealicense.com/licenses/apache-2.0/) | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `1.3.5-backpacks_mod-26.2.jar` |
+| [Skyboxify](https://modrinth.com/mod/skyboxify) | lowercasebtw, FlashyReese, AMereBagatelle | 3.1 | [GPL-3.0-only](https://raw.githubusercontent.com/lowercasebtw/optiboxes/refs/heads/1_21_5/LICENSE) | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `skyboxify-3.1+26.2-fabric.jar` |
+| [Comforts](https://modrinth.com/mod/comforts) | Illusive Soulworks | 16.0.0+26.2 | LGPL-3.0-or-later | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `comforts-fabric-16.0.0+26.2.jar` |
+| [Delight Lib](https://modrinth.com/mod/delight-lib) | Axperty | 26.06.23-26.2-fabric | [MIT](https://github.com/axperty/delightlib/blob/1.3.1/1.21-neoforge/LICENSE) | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `delightlib-26.06.23-26.2-fabric.jar` |
+| [Resourceful Lib](https://modrinth.com/mod/resourceful-lib) | ThatGravyBoat, Epic_Oreo | 5.0.3 | MIT | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `ResourcefulLib-5.0.3.jar` |
+| [Geckolib](https://modrinth.com/mod/geckolib) | Tslat | 5.5.3 | MIT | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `geckolib-fabric-26.2-5.5.3.jar` |
+| [Jade ð](https://modrinth.com/mod/jade) | Snownee | 26.2.10+fabric | CC-BY-NC-SA-4.0 | Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `Jade-mc26.2-Fabric-26.2.10.jar` |
+| [Tool Trims](https://modrinth.com/mod/tool-trims) | JoeFly | 3.0.7 | LicenseRef-All-Rights-Reserved | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `tool-trims-v3.0.7-for-1.21.11+.jar` |
+| [Fabric API](https://modrinth.com/mod/fabric-api) | FabricMC | 0.156.0+26.2 | Apache-2.0 | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `fabric-api-0.156.0+26.2.jar` |
+| [Rechiseled](https://modrinth.com/mod/rechiseled) | SuperMartijn642 | 1.2.5-fabric-mc26.2 | LicenseRef-All-Rights-Reserved | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `rechiseled-1.2.5-fabric-mc26.2.jar` |
+| [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture) | Sketch Macaw & Peachy Macaw | 3.4.1 | LicenseRef-All-Rights-Reserved | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `mcw-furniture-3.4.2-mc26.2fabric.jar` |
+| [Language Reload](https://modrinth.com/mod/language-reload) | Jerozgen | 1.7.7+26.2 | MIT | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `language-reload-1.7.7+26.2.jar` |
+| [JamLib](https://modrinth.com/mod/jamlib) | Jamalam | 2.3.1+26.2.x | MIT | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `jamlib-fabric-2.3.1+26.2.x.jar` |
+| [Balm](https://modrinth.com/mod/balm) | BlayTheNinth | 26.2.0.5+fabric-26.2 | [LicenseRef-All-Rights-Reserved](https://mods.twelveiterations.com/permissions) | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `balm-fabric-26.2-26.2.0.5.jar` |
+| [Explorer's Compass](https://modrinth.com/mod/explorers-compass) | ChaosTheDude | 26.2-2.5.1-fabric | CC-BY-NC-SA-4.0 | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `ExplorersCompass-26.2-2.5.1-fabric.jar` |
+| [Nature's Compass](https://modrinth.com/mod/natures-compass) | ChaosTheDude | 26.2-2.5.1-fabric | CC-BY-NC-SA-4.0 | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `NaturesCompass-26.2-2.5.1-fabric.jar` |
+| [Untitled Duck Mod](https://modrinth.com/mod/untitled-duck-mod) | Suel_ki, Okabintaro, ArtistMonster24 | 1.6.0+fabric | MIT | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `untitledduckmod-fabric-26.2-1.6.0.jar` |
+| [FerriteCore](https://modrinth.com/mod/ferrite-core) | malte0811 | 9.0.0-fabric | MIT | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `ferritecore-9.0.0-fabric.jar` |
+| [Architectury API](https://modrinth.com/mod/architectury-api) | shedaniel | 21.0.7+fabric | LGPL-3.0-only | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `architectury-fabric-21.0.7.jar` |
+| [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) | FlashyReese | mc26.2-2.2.3+fabric | MIT | Extreme Low End, Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `reeses-sodium-options-fabric-2.2.3+mc26.2.jar` |
+| [Explorify](https://modrinth.com/mod/explorify) | bebebea_loste | v1.6.5 | LicenseRef-All-Rights-Reserved | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `Explorify v1.6.5.mod.jar` |
+| [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Aizistral | Fabric-26.2-v2.20.1 | WTFPL | Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `NoChatReports-FABRIC-26.2-v2.20.1.jar` |
+| [BetterGrassify](https://modrinth.com/mod/bettergrassify) | UltimatChamp, JayemCeekay | 1.8.7+fabric.26.2 | [Apache-2.0](https://github.com/UltimatChamp/BetterGrassify/raw/main/LICENSE) | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `BetterGrassify-1.8.7+fabric.26.2.jar` |
+| [Distant Horizons](https://modrinth.com/mod/distanthorizons) | James Seibel, Leonardo Amato, Cola, coolGi, Ran, Leetom, pshsh | 3.1.2-b-26.2 | LGPL-3.0-only | Mac DH, Windows DH | `DistantHorizons-3.1.2-b-26.2-fabric-neoforge.jar` |
+| [Illager Invasion](https://modrinth.com/mod/illager-invasion) | Dricky, Safro, Zeckemith, Fuzs | 26.2.0 | MIT | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `IllagerInvasion-v26.2.0-mc26.2.x-Fabric.jar` |
+| [More Culling](https://modrinth.com/mod/moreculling) | FX - PR0CESS, 1Foxy2 | 1.8.0 | GPL-3.0-only | Extreme Low End, Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `moreculling-fabric-26.2-1.8.0.jar` |
+| [Dungeons and Taverns](https://modrinth.com/mod/dungeons-and-taverns) | Konci, Whity, MiziraGamez, NovaWostra | 5.3.0+mod | LicenseRef-All-Rights-Reserved | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `dungeons-and-taverns-5.3.0.jar` |
+| [Paginated Advancements & Custom Frames](https://modrinth.com/mod/paginatedadvancements) | DaFuqs | 2.8.0+26.2 | MIT | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `paginatedadvancements-2.8.0+26.2.jar` |
+| [Cape Provider](https://modrinth.com/mod/cape-provider) | litetex | 5.5.0 | LGPL-2.1-or-later | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `cape-provider-5.5.0.jar` |
+| [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port) | Fuzs | 26.2.1 | MPL-2.0 | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar` |
+| [Friends&Foes (Fabric/Quilt)](https://modrinth.com/mod/friends-and-foes) | Faboslav | fabric-4.0.26+mc26.2 | CC-BY-NC-ND-4.0 | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `friendsandfoes-fabric-4.0.26+mc26.2.jar` |
+| [Waystones](https://modrinth.com/mod/waystones) | BlayTheNinth | 26.2.0.7+fabric-26.2 | [LicenseRef-All-Rights-Reserved](https://mods.twelveiterations.com/permissions) | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `waystones-fabric-26.2-26.2.0.7.jar` |
+| [AppleSkin](https://modrinth.com/mod/appleskin) | squeek502 | 3.0.10+mc26.2 | Unlicense | Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `appleskin-fabric-mc26.2-3.0.10.jar` |
+| [Sodium Shadowy Path Blocks (SSPB)](https://modrinth.com/mod/sodium-shadowy-path-blocks) | Rynnavinx | 7.0.0-fabric | LGPL-3.0-only | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `sodium-shadowy-path-blocks-fabric-7.0.0.jar` |
+| [voxy](https://modrinth.com/mod/voxy) | Cortex | 0.2.18-beta | LicenseRef-All-Rights-Reserved | Server, Windows Voxy | `voxy-0.2.18-beta.jar` |
+| [VeinMiner Hotkey](https://modrinth.com/mod/veinminer-client) | Miraculixx, Max Bossing | 2.11.2 | LGPL-3.0-only | Extreme Low End, Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `veinminer-client-fabric-2.11.2.jar` |
+| [Nullscape](https://modrinth.com/mod/nullscape) | Starmute, catter1, runcows | 1.2.20 | [LicenseRef-Stardust-Labs-License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt) | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `Nullscape_26.2_v1.2.20.jar` |
+| [Macaw's Paths and Pavings](https://modrinth.com/mod/macaws-paths-and-pavings) | Sketch Macaw, Peachy Macaw | 1.1.1 | MIT | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `mcw-paths-1.1.1-mc26.2fabric.jar` |
+| [Universal Bone Meal](https://modrinth.com/mod/universal-bone-meal) | Fuzs | 26.2.0 | MPL-2.0 | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `UniversalBoneMeal-v26.2.0-mc26.2.x-Fabric.jar` |
+| [SuperMartijn642's Core Lib](https://modrinth.com/mod/supermartijn642s-core-lib) | SuperMartijn642 | 1.1.22-fabric-mc26.2 | LicenseRef-All-Rights-Reserved | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `supermartijn642corelib-1.1.22-fabric-mc26.2.jar` |
+| [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) | xaero96 | fabric-26.2-26.4.2 | LicenseRef-All-Rights-Reserved | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `xaerominimap-fabric-26.2-26.4.2.jar` |
+| [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) | Kira-NT | 4.1.0+26.2 | [MIT](https://github.com/Kira-NT/cubes-without-borders/blob/main/LICENSE.md) | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `cwb-4.1.0+26.2.jar` |
+| [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls) | SketchMacaw | 1.2.1 | MIT | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `mcw-fences-1.2.1-mc26.2fabric.jar` |
+| [Better Than Mending](https://modrinth.com/mod/better-than-mending) | Legobmw99 | 2.3.0 | LGPL-3.0-only | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `BetterThanMending-2.3.0-merged.jar` |
+| [RightClickHarvest](https://modrinth.com/mod/rightclickharvest) | Jamalam | 4.6.2+26.2.x | MIT | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `rightclickharvest-fabric-4.6.2+26.2.x.jar` |
+| [Mutant Monsters](https://modrinth.com/mod/mutant-monsters) | shcott21, Chumbanotz, Fuzs, tdstress | 26.2.1 | AGPL-3.0-only | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `MutantMonsters-v26.2.1-mc26.2.x-Fabric.jar` |
+| [Debugify](https://modrinth.com/mod/debugify) | isXander | 26.2.0.0 | LGPL-3.0-only | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `debugify-26.2.0.0.jar` |
+| [Remove Reloading Screen](https://modrinth.com/mod/rrls) | dima_dencep | 5.2.7+mc26.2 | [OSL-3.0](https://github.com/dima-dencep/rrls/blob/HEAD/LICENSE) | Mac DH, Mac No LOD, Windows DH, Windows No LOD, Windows Voxy | `rrls-5.2.7+mc.26.2.jar` |
+| [Structory](https://modrinth.com/mod/structory) | Botany, Starmute, catter1 | 1.3.17 | [LicenseRef-Stardust-Labs-License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt) | Extreme Low End, Mac DH, Mac No LOD, Server, Windows DH, Windows No LOD, Windows Voxy | `Structory_26.2_v1.3.7.jar` |
+
+## Resource Packs
+
+| Project | Credited author(s) | Version | License | Distributed in | File |
+| --- | --- | --- | --- | --- | --- |
+| [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants) | mythitorium | 3-1.21.5 | Apache-2.0 | Extreme Low End, Mac DH, Mac No LOD, Resource Library, Windows DH, Windows No LOD, Windows Voxy | `EvenBetterEnchants_v3_1.21.5+.zip` |
+| [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) | FreshLX | 1.10.5 | LicenseRef-See-Terms-of-Use-in-Description | Mac DH, Mac No LOD, Resource Library, Windows DH, Windows No LOD, Windows Voxy | `FreshAnimations_v1.10.5.zip` |
+| [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode) | nebulr | 2026.6.0-26.2 | CC-BY-NC-SA-4.0 | Extreme Low End, Mac DH, Mac No LOD, Resource Library, Windows DH, Windows No LOD, Windows Voxy | `Default-Dark-Mode-26.2-2026.6.0.zip` |
+| [Fresh Animations: Extensions](https://modrinth.com/resourcepack/fresh-animations-extensions) | FreshLX | 1.9.2 | LicenseRef-All-Rights-Reserved | Mac DH, Mac No LOD, Resource Library, Windows DH, Windows No LOD, Windows Voxy | `FA+All_Extensions-v1.9.2.zip` |
+| [Low Shield](https://modrinth.com/resourcepack/low-shield-pack) | Oculie | 3.1.0 | LicenseRef-All-Rights-Reserved | Mac DH, Mac No LOD, Resource Library, Windows DH, Windows No LOD, Windows Voxy | `Low Shield.zip` |
+| [Fresh Animations: Player Extension](https://modrinth.com/resourcepack/fa-player-extension) | FreshLX | 1.1.0 | LicenseRef-All-Rights-Reserved | Mac DH, Mac No LOD, Resource Library, Windows DH, Windows No LOD, Windows Voxy | `FA+Player-v1.1.zip` |
+| [Low Fire](https://modrinth.com/resourcepack/low-fire-pack) | Oculie | 1.3.0 | LicenseRef-All-Rights-Reserved | Mac DH, Mac No LOD, Resource Library, Windows DH, Windows No LOD, Windows Voxy | `Low Fire.zip` |
+
+## Shaders
+
+| Project | Credited author(s) | Version | License | Distributed in | File |
+| --- | --- | --- | --- | --- | --- |
+| [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast-shaders) | KDXavier | 9.5d | LGPL-3.0-or-later | Shader Library, Windows No LOD | `MakeUp-UltraFast-9.5d.zip` |
+| [Bliss Shaders](https://modrinth.com/shader/bliss-shader) | Xonk | 2.1.2 | [LicenseRef-All-Rights-Reserved](https://github.com/X0nk/Bliss-Shader/blob/main/LICENSE.md) | Shader Library | `Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip` |
+| [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined) | EminGT | r5.8.1 | [LicenseRef-Custom](https://github.com/ComplementaryDevelopment/ComplementaryReimagined/blob/main/License.txt) | Shader Library | `ComplementaryReimagined_r5.8.1.zip` |
+| [Photon Shaders](https://modrinth.com/shader/photon-shader) | sixthsurge | v1.3b | [LicenseRef-](https://github.com/sixthsurge/photon/blob/main/LICENSE) | Shader Library, Windows DH, Windows No LOD, Windows Voxy | `photon_v1.3b.zip` |
+
+## Metadata Notes
+
+- Total unique distributed projects/files: 142
+- Files matched to an official Modrinth project by SHA-512: 141
+- Files with a documented manual or pack-original source: 1
+- Files requiring manual source-link review: 0
+- A missing source link does not mean the file is uncredited: embedded author and license metadata is retained whenever present.
