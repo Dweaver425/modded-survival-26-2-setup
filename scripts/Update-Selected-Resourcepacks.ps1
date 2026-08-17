@@ -1,6 +1,7 @@
 [CmdletBinding()]
 param(
-    [switch]$SyncActiveClients
+    [switch]$SyncActiveClients,
+    [string]$InstallationsRoot = (Join-Path ([Environment]::GetFolderPath('UserProfile')) 'Minecraft Installations')
 )
 
 $ErrorActionPreference = 'Stop'
@@ -171,7 +172,7 @@ foreach ($destinationRoot in @($stableRoot) + $standardClients.ForEach({ Join-Pa
 }
 
 if ($SyncActiveClients) {
-    $installationsRoot = 'C:\Users\Dylan\Minecraft Installations'
+    $installationsRoot = [System.IO.Path]::GetFullPath($InstallationsRoot)
     $activeClients = @(
         'Modded 26_2 Minecraft Client for Server DH',
         'Modded 26_2 Minecraft Client for Server VOXY'
