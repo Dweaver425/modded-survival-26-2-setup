@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "indiumprovider",
+  "name": "Indium Server Dummy",
+  "version": "1.0.0",
+  "environment": "server",
+  "provides": [
+    "indium"
+  ]
+}
