@@ -37,7 +37,7 @@ Use exactly one pack. Do not combine the Voxy and Distant Horizons client mods i
 
 | Pack | Best for | Recommended RAM |
 | --- | --- | ---: |
-| Windows Max - Voxy | Dylan's high-end Windows PC, maximum distance rendering and shaders | **12 GB** |
+| Windows Max - Voxy | High-end Windows PC, maximum distance rendering and shaders | **12 GB** |
 | Windows - Distant Horizons | Windows PCs that want long-distance LOD rendering | **8 GB** |
 | Windows - No LOD | Stable general-purpose Windows setup | **6 GB** |
 | Mac - Distant Horizons | Apple Silicon Mac with at least 16 GB unified memory | **6 GB** |
