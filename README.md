@@ -45,7 +45,7 @@ The server supports both Voxy and Distant Horizons clients. Each client still ch
 
 See [RAM Guide](docs/RAM-GUIDE.md) before using a different value.
 
-Optional shaders and resource packs are included in the client ZIPs but disabled by default. See the [Visuals Guide](docs/VISUALS-GUIDE.md) before enabling them.
+Optional shaders are included but disabled by default. Normal Windows and Mac packs start with Dylan's selected Vanilla+ resource profile enabled; the Extreme Low End pack keeps visual extras disabled. See the [Visuals Guide](docs/VISUALS-GUIDE.md) before changing the order.
 
 ## 2. Extract The Pack Outside `.minecraft`
 
@@ -177,7 +177,7 @@ The server host uses FastBack snapshot backups stored on a separate physical dri
 | Connection timed out | The server or Playit agent is offline, or the server is busy starting |
 | Voxy error on Mac | Use Mac No LOD or Mac Distant Horizons instead |
 | Game runs out of memory | Increase `-Xmx` within the safe range in the RAM guide |
-| Broken mob eyes or textures | Disable either Faithful 32x or Fresh Animations; they need a matching compatibility patch |
+| Resource-pack visuals look wrong | Restore the selected top-to-bottom order from the Visuals Guide |
 | LOD terrain ignores the shader | Use Photon on Windows Voxy/DH, or disable the shader |
 
 See [Troubleshooting](docs/TROUBLESHOOTING.md) for detailed checks.

@@ -1,11 +1,11 @@
 {
-    "generated":  "2026-08-17T00:25:51-04:00",
+    "generated":  "2026-08-17T00:36:34-04:00",
     "minecraft":  "26.2",
     "packAssembler":  "Dylan Weaver (Stixity)",
-    "uniqueFiles":  145,
-    "verifiedSources":  145,
-    "modrinthMatched":  143,
-    "documentedManualSources":  2,
+    "uniqueFiles":  142,
+    "verifiedSources":  142,
+    "modrinthMatched":  141,
+    "documentedManualSources":  1,
     "manualReview":  0,
     "entries":  [
                     {
@@ -129,8 +129,8 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "0212fc1ded72d027df0d346546f45903b9c6cc37c521379724cf2d28eb8a9867a52f26391e690dcadeedcd32899d22b00b7405b2e6bbefd949fb9df383e3c5b4",
-                        "file":  "zoomify-2.16.1+26.2.jar",
+                        "sha512":  "7eaa586783b8c63856bb454b518cd3fc123f146b1cd57506de363878a4a6da0e71d7e05adaaee016bd2f04c80042c54a7985cd0c5752118ad068334a352e0475",
+                        "file":  "polytone-fabric-26.2-5.10.2.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
@@ -139,20 +139,20 @@
                                       "Mac DH",
                                       "Mac No LOD"
                                   ],
-                        "id":  "zoomify",
-                        "name":  "Zoomify (Zoom)",
-                        "version":  "2.16.1+26.2",
+                        "id":  "polytone",
+                        "name":  "Polytone",
+                        "version":  "26.2-5.10.2",
                         "authors":  [
-                                        "isXander"
+                                        "MehVahdJukaar, Plantkillable"
                                     ],
                         "license":  [
-                                        "LGPL-3.0-only"
+                                        "GPL-3.0-or-later"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/zoomify",
-                        "issuesUrl":  "https://github.com/isXander/Zoomify/issues",
+                        "projectUrl":  "https://modrinth.com/mod/polytone",
+                        "issuesUrl":  "https://github.com/MehVahdJukaar/polytone/issues",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "w7ThoJFB",
-                        "modrinthVersionId":  "QWTzJNJY",
+                        "modrinthProjectId":  "3qAYkBMB",
+                        "modrinthVersionId":  "YKRCWbYF",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -188,32 +188,30 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "c9834fbcb557d6f96b99ccafc69346f8da3887cdc4e26f780f9f4fe1c712071bab2e97362ecf69cd308aaafa76ea3cb98e7bee35b61d94addae2797788156457",
-                        "file":  "ResourcefulConfig-5.0.0.jar",
+                        "sha512":  "0212fc1ded72d027df0d346546f45903b9c6cc37c521379724cf2d28eb8a9867a52f26391e690dcadeedcd32899d22b00b7405b2e6bbefd949fb9df383e3c5b4",
+                        "file":  "zoomify-2.16.1+26.2.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
                                       "Windows DH",
                                       "Windows No LOD",
                                       "Mac DH",
-                                      "Mac No LOD",
-                                      "Extreme Low End",
-                                      "Server"
+                                      "Mac No LOD"
                                   ],
-                        "id":  "resourcefulconfig",
-                        "name":  "Resourceful Config",
-                        "version":  "5.0.0",
+                        "id":  "zoomify",
+                        "name":  "Zoomify (Zoom)",
+                        "version":  "2.16.1+26.2",
                         "authors":  [
-                                        "ThatGravyBoat"
+                                        "isXander"
                                     ],
                         "license":  [
-                                        "MIT"
+                                        "LGPL-3.0-only"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/resourceful-config",
-                        "issuesUrl":  "https://github.com/Team-Resourceful/Resourceful-Config/issues",
+                        "projectUrl":  "https://modrinth.com/mod/zoomify",
+                        "issuesUrl":  "https://github.com/isXander/Zoomify/issues",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "M1953qlQ",
-                        "modrinthVersionId":  "RqoPv70U",
+                        "modrinthProjectId":  "w7ThoJFB",
+                        "modrinthVersionId":  "QWTzJNJY",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -248,30 +246,32 @@
                         "licenseUrl":  "https://github.com/decce6/Ixeris/blob/master/LICENSE"
                     },
                     {
-                        "sha512":  "7eaa586783b8c63856bb454b518cd3fc123f146b1cd57506de363878a4a6da0e71d7e05adaaee016bd2f04c80042c54a7985cd0c5752118ad068334a352e0475",
-                        "file":  "polytone-fabric-26.2-5.10.2.jar",
-                        "type":  "Mod",
+                        "sha512":  "ab401a6cb456b1d2d4c6dd907cadab268e9d16363e758857e40b7850d036ac37332cc056c1a9c88f76aebe38314417aec5230825e7704b896c5f114603b913fb",
+                        "file":  "Default-Dark-Mode-26.2-2026.6.0.zip",
+                        "type":  "Resource Pack",
                         "packs":  [
                                       "Windows Voxy",
                                       "Windows DH",
                                       "Windows No LOD",
                                       "Mac DH",
-                                      "Mac No LOD"
+                                      "Mac No LOD",
+                                      "Extreme Low End",
+                                      "Resource Library"
                                   ],
-                        "id":  "polytone",
-                        "name":  "Polytone",
-                        "version":  "26.2-5.10.2",
+                        "id":  null,
+                        "name":  "Default Dark Mode",
+                        "version":  "2026.6.0-26.2",
                         "authors":  [
-                                        "MehVahdJukaar, Plantkillable"
+                                        "nebulr"
                                     ],
                         "license":  [
-                                        "GPL-3.0-or-later"
+                                        "CC-BY-NC-SA-4.0"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/polytone",
-                        "issuesUrl":  "https://github.com/MehVahdJukaar/polytone/issues",
-                        "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "3qAYkBMB",
-                        "modrinthVersionId":  "YKRCWbYF",
+                        "projectUrl":  "https://modrinth.com/resourcepack/default-dark-mode",
+                        "issuesUrl":  "https://github.com/nebuIr/Default-Dark-Mode/issues",
+                        "metadataSource":  "pack.mcmeta",
+                        "modrinthProjectId":  "6SLU7tS5",
+                        "modrinthVersionId":  "tPC8gaIQ",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -402,8 +402,8 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "bc77723465dc4aef7a3a8fa2fea3641df1e6ba7cc8a2d86cd2659ef65ca661f6a763d3997fdaed1f8ff6c78a4c6061f8074160ca3162a29021735779a6c55e46",
-                        "file":  "MouseTweaks-fabric-mc26.2-2.31.jar",
+                        "sha512":  "b2626f44f4c3afd312d66ba9052352d3efdbee1543f5042c74c8723fa897881141713a8fa3bdcf5d07732f820672a351bda2f5958537f0553e43a7f2cd41dcbd",
+                        "file":  "jei-26.2-fabric-30.16.0.125.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
@@ -412,20 +412,20 @@
                                       "Mac DH",
                                       "Mac No LOD"
                                   ],
-                        "id":  "mousetweaks",
-                        "name":  "Mouse Tweaks",
-                        "version":  "26.2-2.31-fabric",
+                        "id":  "jei",
+                        "name":  "Just Enough Items (JEI)",
+                        "version":  "30.16.0.125",
                         "authors":  [
-                                        "Ivan Molodetskikh (YaLTeR)"
+                                        "mezz"
                                     ],
                         "license":  [
-                                        "BSD-3-Clause"
+                                        "MIT"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/mouse-tweaks",
-                        "issuesUrl":  "https://github.com/YaLTeR/MouseTweaks/issues",
+                        "projectUrl":  "https://modrinth.com/mod/jei",
+                        "issuesUrl":  "https://github.com/mezz/JustEnoughItems/issues?q=is%3Aissue",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "aC3cM3Vq",
-                        "modrinthVersionId":  "jOiTBIaB",
+                        "modrinthProjectId":  "u6dRKJwZ",
+                        "modrinthVersionId":  "5eBL9Xtr",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -461,32 +461,30 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "ab401a6cb456b1d2d4c6dd907cadab268e9d16363e758857e40b7850d036ac37332cc056c1a9c88f76aebe38314417aec5230825e7704b896c5f114603b913fb",
-                        "file":  "Default-Dark-Mode-26.2-2026.6.0.zip",
-                        "type":  "Resource Pack",
+                        "sha512":  "bc77723465dc4aef7a3a8fa2fea3641df1e6ba7cc8a2d86cd2659ef65ca661f6a763d3997fdaed1f8ff6c78a4c6061f8074160ca3162a29021735779a6c55e46",
+                        "file":  "MouseTweaks-fabric-mc26.2-2.31.jar",
+                        "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
                                       "Windows DH",
                                       "Windows No LOD",
                                       "Mac DH",
-                                      "Mac No LOD",
-                                      "Extreme Low End",
-                                      "Resource Library"
+                                      "Mac No LOD"
                                   ],
-                        "id":  null,
-                        "name":  "Default Dark Mode",
-                        "version":  "2026.6.0-26.2",
+                        "id":  "mousetweaks",
+                        "name":  "Mouse Tweaks",
+                        "version":  "26.2-2.31-fabric",
                         "authors":  [
-                                        "nebulr"
+                                        "Ivan Molodetskikh (YaLTeR)"
                                     ],
                         "license":  [
-                                        "CC-BY-NC-SA-4.0"
+                                        "BSD-3-Clause"
                                     ],
-                        "projectUrl":  "https://modrinth.com/resourcepack/default-dark-mode",
-                        "issuesUrl":  "https://github.com/nebuIr/Default-Dark-Mode/issues",
-                        "metadataSource":  "pack.mcmeta",
-                        "modrinthProjectId":  "6SLU7tS5",
-                        "modrinthVersionId":  "tPC8gaIQ",
+                        "projectUrl":  "https://modrinth.com/mod/mouse-tweaks",
+                        "issuesUrl":  "https://github.com/YaLTeR/MouseTweaks/issues",
+                        "metadataSource":  "fabric.mod.json",
+                        "modrinthProjectId":  "aC3cM3Vq",
+                        "modrinthVersionId":  "jOiTBIaB",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -523,59 +521,32 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "b2626f44f4c3afd312d66ba9052352d3efdbee1543f5042c74c8723fa897881141713a8fa3bdcf5d07732f820672a351bda2f5958537f0553e43a7f2cd41dcbd",
-                        "file":  "jei-26.2-fabric-30.16.0.125.jar",
+                        "sha512":  "c9834fbcb557d6f96b99ccafc69346f8da3887cdc4e26f780f9f4fe1c712071bab2e97362ecf69cd308aaafa76ea3cb98e7bee35b61d94addae2797788156457",
+                        "file":  "ResourcefulConfig-5.0.0.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
                                       "Windows DH",
                                       "Windows No LOD",
                                       "Mac DH",
-                                      "Mac No LOD"
+                                      "Mac No LOD",
+                                      "Extreme Low End",
+                                      "Server"
                                   ],
-                        "id":  "jei",
-                        "name":  "Just Enough Items (JEI)",
-                        "version":  "30.16.0.125",
+                        "id":  "resourcefulconfig",
+                        "name":  "Resourceful Config",
+                        "version":  "5.0.0",
                         "authors":  [
-                                        "mezz"
+                                        "ThatGravyBoat"
                                     ],
                         "license":  [
                                         "MIT"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/jei",
-                        "issuesUrl":  "https://github.com/mezz/JustEnoughItems/issues?q=is%3Aissue",
+                        "projectUrl":  "https://modrinth.com/mod/resourceful-config",
+                        "issuesUrl":  "https://github.com/Team-Resourceful/Resourceful-Config/issues",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "u6dRKJwZ",
-                        "modrinthVersionId":  "5eBL9Xtr",
-                        "sourceType":  "Modrinth SHA-512 match",
-                        "sourceVerified":  true,
-                        "licenseUrl":  ""
-                    },
-                    {
-                        "sha512":  "4acd478923fac5300fb43cbcc3b6a7501fee473491ee416b5d5a1203bdb8ceeaed04ff34bd1730a9cbff7bc4497265ab129f9eee2ca1d37a70c463203b1a8c20",
-                        "file":  "entity_texture_features-7.1.1-26.2-fabric.jar",
-                        "type":  "Mod",
-                        "packs":  [
-                                      "Windows Voxy",
-                                      "Windows DH",
-                                      "Windows No LOD",
-                                      "Mac DH",
-                                      "Mac No LOD"
-                                  ],
-                        "id":  "entity_texture_features",
-                        "name":  "[ETF] Entity Texture Features",
-                        "version":  "7.1.1-fabric-26.2",
-                        "authors":  [
-                                        "Traben"
-                                    ],
-                        "license":  [
-                                        "LGPL-3.0-only"
-                                    ],
-                        "projectUrl":  "https://modrinth.com/mod/entitytexturefeatures",
-                        "issuesUrl":  "https://github.com/Traben-0/Entity_Texture_Features/issues",
-                        "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "BVzZfTc1",
-                        "modrinthVersionId":  "HLCBKYFD",
+                        "modrinthProjectId":  "M1953qlQ",
+                        "modrinthVersionId":  "RqoPv70U",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -613,6 +584,36 @@
                         "licenseUrl":  "https://mods.twelveiterations.com/permissions"
                     },
                     {
+                        "sha512":  "5f7c9d7993bfe3654b4f384c23afd83c1adcc359b1fa669b20f29ffa41e4e3135a161c1fdf97c66c5fc513ec5fe63e757a46b6e183b7b93148a28412496c5a0b",
+                        "file":  "ImmediatelyFast-Fabric-1.16.2+26.2.jar",
+                        "type":  "Mod",
+                        "packs":  [
+                                      "Windows Voxy",
+                                      "Windows DH",
+                                      "Windows No LOD",
+                                      "Mac DH",
+                                      "Mac No LOD",
+                                      "Extreme Low End"
+                                  ],
+                        "id":  "immediatelyfast",
+                        "name":  "ImmediatelyFast",
+                        "version":  "1.16.2+26.2-fabric",
+                        "authors":  [
+                                        "RK_01"
+                                    ],
+                        "license":  [
+                                        "LGPL-3.0-or-later"
+                                    ],
+                        "projectUrl":  "https://modrinth.com/mod/immediatelyfast",
+                        "issuesUrl":  "https://github.com/RaphiMC/ImmediatelyFast/issues",
+                        "metadataSource":  "fabric.mod.json",
+                        "modrinthProjectId":  "5ZwdcRci",
+                        "modrinthVersionId":  "uJHxuQxy",
+                        "sourceType":  "Modrinth SHA-512 match",
+                        "sourceVerified":  true,
+                        "licenseUrl":  ""
+                    },
+                    {
                         "sha512":  "705a98e5d05c15854c5a711fb6f1a9fbe5eaae354bdaf8b5c1641b09f89457c98ed41b819c9221b380c1faf0a342df93debc19a3ceeadf4cd4b1bdc1219ed606",
                         "file":  "Controlling-fabric-26.2-26.2.2.jar",
                         "type":  "Mod",
@@ -642,61 +643,30 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "cf76ba5e7a16c249723dc31ada8e49f95c4402872a829366f4705de01f6066d8c0172ff7553259114f3d46333f8ca425c20f7152ddc30965f8c998a238d76bbb",
-                        "file":  "3D Vanilla v1.19.zip",
-                        "type":  "Resource Pack",
-                        "packs":  [
-                                      "Windows Voxy",
-                                      "Windows DH",
-                                      "Windows No LOD",
-                                      "Mac DH",
-                                      "Mac No LOD",
-                                      "Resource Library"
-                                  ],
-                        "id":  null,
-                        "name":  "Vanilla 3D Extension",
-                        "version":  "v1.19",
-                        "authors":  [
-                                        "SkeletonKingIII"
-                                    ],
-                        "license":  [
-                                        "Apache-2.0"
-                                    ],
-                        "projectUrl":  "https://www.curseforge.com/minecraft/texture-packs/vanilla-3d-extension",
-                        "issuesUrl":  "",
-                        "metadataSource":  "pack.mcmeta",
-                        "modrinthProjectId":  "di3Wfoht",
-                        "modrinthVersionId":  "bO5aoy96",
-                        "sourceType":  "Documented manual source",
-                        "sourceVerified":  true,
-                        "licenseUrl":  ""
-                    },
-                    {
-                        "sha512":  "5f7c9d7993bfe3654b4f384c23afd83c1adcc359b1fa669b20f29ffa41e4e3135a161c1fdf97c66c5fc513ec5fe63e757a46b6e183b7b93148a28412496c5a0b",
-                        "file":  "ImmediatelyFast-Fabric-1.16.2+26.2.jar",
+                        "sha512":  "4acd478923fac5300fb43cbcc3b6a7501fee473491ee416b5d5a1203bdb8ceeaed04ff34bd1730a9cbff7bc4497265ab129f9eee2ca1d37a70c463203b1a8c20",
+                        "file":  "entity_texture_features-7.1.1-26.2-fabric.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
                                       "Windows DH",
                                       "Windows No LOD",
                                       "Mac DH",
-                                      "Mac No LOD",
-                                      "Extreme Low End"
+                                      "Mac No LOD"
                                   ],
-                        "id":  "immediatelyfast",
-                        "name":  "ImmediatelyFast",
-                        "version":  "1.16.2+26.2-fabric",
+                        "id":  "entity_texture_features",
+                        "name":  "[ETF] Entity Texture Features",
+                        "version":  "7.1.1-fabric-26.2",
                         "authors":  [
-                                        "RK_01"
+                                        "Traben"
                                     ],
                         "license":  [
-                                        "LGPL-3.0-or-later"
+                                        "LGPL-3.0-only"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/immediatelyfast",
-                        "issuesUrl":  "https://github.com/RaphiMC/ImmediatelyFast/issues",
+                        "projectUrl":  "https://modrinth.com/mod/entitytexturefeatures",
+                        "issuesUrl":  "https://github.com/Traben-0/Entity_Texture_Features/issues",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "5ZwdcRci",
-                        "modrinthVersionId":  "uJHxuQxy",
+                        "modrinthProjectId":  "BVzZfTc1",
+                        "modrinthVersionId":  "HLCBKYFD",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -822,6 +792,40 @@
                         "licenseUrl":  ""
                     },
                     {
+                        "sha512":  "0830f4601674c4ea58d247a71bfdc820e4676900e173c7d6df4e58e348a09da43b279cea060df7b67e6f74c84e2a05b401b2df79836c37cffc8dc994844ab250",
+                        "file":  "Terralith_26.2_v2.6.4.jar",
+                        "type":  "Mod",
+                        "packs":  [
+                                      "Windows Voxy",
+                                      "Windows DH",
+                                      "Windows No LOD",
+                                      "Mac DH",
+                                      "Mac No LOD",
+                                      "Extreme Low End",
+                                      "Server"
+                                  ],
+                        "id":  "terralith",
+                        "name":  "Terralith",
+                        "version":  "2.6.4",
+                        "authors":  [
+                                        "Starmute",
+                                        "catter1",
+                                        "Apollo",
+                                        "TheKingWhale"
+                                    ],
+                        "license":  [
+                                        "LicenseRef-Stardust-Labs-License"
+                                    ],
+                        "projectUrl":  "https://modrinth.com/mod/terralith",
+                        "issuesUrl":  "https://github.com/Stardust-Labs-MC/Terralith/issues",
+                        "metadataSource":  "fabric.mod.json",
+                        "modrinthProjectId":  "8oi3bsk5",
+                        "modrinthVersionId":  "OxfI2n80",
+                        "sourceType":  "Modrinth SHA-512 match",
+                        "sourceVerified":  true,
+                        "licenseUrl":  "https://github.com/Stardust-Labs-MC/license/blob/main/license.txt"
+                    },
+                    {
                         "sha512":  "9296b5755839062067c9e5e561b8248709c5f9aade53a9eb0c87e0d0dc743f83f1a6b5776dbe1c33c85b0b1a3355544b0da53b0bcdcee5dccc02d6576cb9ef31",
                         "file":  "entity_model_features-3.2.6-26.2-fabric.jar",
                         "type":  "Mod",
@@ -944,30 +948,32 @@
                         "licenseUrl":  "https://github.com/axperty/cratedelight/blob/1.21.7-neoforge/LICENSE"
                     },
                     {
-                        "sha512":  "e85558f3effe8baee6394b61f48981989d22e181a3b8772c0f521022914d4c3603785e0e23a8df4a5e6ce9407c6abb8cf7d73183901908227a5623daadf30d67",
-                        "file":  "morechathistory-2.0.0.jar",
+                        "sha512":  "c329f49cdcb04b9cadfa0cac58752b98fd3a49fc72148f7b0c421ff57deece85b126f6b990ac5963a6755b85264e1d6a78e69c3367418c2c6da3350b3fd580eb",
+                        "file":  "FarmersDelight-26.2-3.6.14+refabricated.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
                                       "Windows DH",
                                       "Windows No LOD",
                                       "Mac DH",
-                                      "Mac No LOD"
+                                      "Mac No LOD",
+                                      "Extreme Low End",
+                                      "Server"
                                   ],
-                        "id":  "morechathistory",
-                        "name":  "More Chat History",
-                        "version":  "2.0.0",
+                        "id":  "farmersdelight",
+                        "name":  "Farmer\u0027s Delight Refabricated",
+                        "version":  "26.2-3.6.14",
                         "authors":  [
-                                        "JackFred"
+                                        "MehVahdJukaar, ChrysanthCow, cassiancc"
                                     ],
                         "license":  [
-                                        "CC0-1.0"
+                                        "MIT"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/morechathistory",
-                        "issuesUrl":  "https://github.com/JackFredMods/MoreChatHistory/issues",
+                        "projectUrl":  "https://modrinth.com/mod/farmers-delight-refabricated",
+                        "issuesUrl":  "https://github.com/MehVahdJukaar/FarmersDelightRefabricated/issues",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "8qkXwOnk",
-                        "modrinthVersionId":  "qpDhYv1Y",
+                        "modrinthProjectId":  "7vxePowz",
+                        "modrinthVersionId":  "h5h2ZIaG",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -1004,38 +1010,33 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "0830f4601674c4ea58d247a71bfdc820e4676900e173c7d6df4e58e348a09da43b279cea060df7b67e6f74c84e2a05b401b2df79836c37cffc8dc994844ab250",
-                        "file":  "Terralith_26.2_v2.6.4.jar",
+                        "sha512":  "e85558f3effe8baee6394b61f48981989d22e181a3b8772c0f521022914d4c3603785e0e23a8df4a5e6ce9407c6abb8cf7d73183901908227a5623daadf30d67",
+                        "file":  "morechathistory-2.0.0.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
                                       "Windows DH",
                                       "Windows No LOD",
                                       "Mac DH",
-                                      "Mac No LOD",
-                                      "Extreme Low End",
-                                      "Server"
+                                      "Mac No LOD"
                                   ],
-                        "id":  "terralith",
-                        "name":  "Terralith",
-                        "version":  "2.6.4",
+                        "id":  "morechathistory",
+                        "name":  "More Chat History",
+                        "version":  "2.0.0",
                         "authors":  [
-                                        "Starmute",
-                                        "catter1",
-                                        "Apollo",
-                                        "TheKingWhale"
+                                        "JackFred"
                                     ],
                         "license":  [
-                                        "LicenseRef-Stardust-Labs-License"
+                                        "CC0-1.0"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/terralith",
-                        "issuesUrl":  "https://github.com/Stardust-Labs-MC/Terralith/issues",
+                        "projectUrl":  "https://modrinth.com/mod/morechathistory",
+                        "issuesUrl":  "https://github.com/JackFredMods/MoreChatHistory/issues",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "8oi3bsk5",
-                        "modrinthVersionId":  "OxfI2n80",
+                        "modrinthProjectId":  "8qkXwOnk",
+                        "modrinthVersionId":  "qpDhYv1Y",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
-                        "licenseUrl":  "https://github.com/Stardust-Labs-MC/license/blob/main/license.txt"
+                        "licenseUrl":  ""
                     },
                     {
                         "sha512":  "137beb06892399fa45219cb99cb51415a9445979dfbb5b7425034b4c3970da3d5526c2fef29b8667ec52438f33f993ebf5663e06e61f79f5423726c3d219b8de",
@@ -1069,66 +1070,33 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "c329f49cdcb04b9cadfa0cac58752b98fd3a49fc72148f7b0c421ff57deece85b126f6b990ac5963a6755b85264e1d6a78e69c3367418c2c6da3350b3fd580eb",
-                        "file":  "FarmersDelight-26.2-3.6.14+refabricated.jar",
+                        "sha512":  "c7fff6ddc463178f7154d433a9dfe21443732d1f70f450a5e03860f631adb2f6a445d72fb59ac017f014add4881edf59d9960e9163d6d497d117bd16a8ae5295",
+                        "file":  "bettermounthud-1.3.1.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
                                       "Windows DH",
                                       "Windows No LOD",
                                       "Mac DH",
-                                      "Mac No LOD",
-                                      "Extreme Low End",
-                                      "Server"
+                                      "Mac No LOD"
                                   ],
-                        "id":  "farmersdelight",
-                        "name":  "Farmer\u0027s Delight Refabricated",
-                        "version":  "26.2-3.6.14",
+                        "id":  "bettermounthud",
+                        "name":  "Better Mount HUD",
+                        "version":  "1.3.1",
                         "authors":  [
-                                        "MehVahdJukaar, ChrysanthCow, cassiancc"
+                                        "Lortseam"
                                     ],
                         "license":  [
-                                        "MIT"
+                                        "GPL-3.0-only"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/farmers-delight-refabricated",
-                        "issuesUrl":  "https://github.com/MehVahdJukaar/FarmersDelightRefabricated/issues",
+                        "projectUrl":  "https://modrinth.com/mod/better-mount-hud",
+                        "issuesUrl":  "https://github.com/Lortseam/better-mount-hud/issues",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "7vxePowz",
-                        "modrinthVersionId":  "h5h2ZIaG",
+                        "modrinthProjectId":  "kqJFAPU9",
+                        "modrinthVersionId":  "M3Fe5t0L",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
-                    },
-                    {
-                        "sha512":  "338813c344a2d924abbaaf249da2b52f5e162bd92407f3099c6ff1bce1c1efecde9df80efcc7b4de3b3a0044cc5735b96594b04da4594bb26793459fc6c960a6",
-                        "file":  "entityculling-fabric-1.10.5-mc26.2.jar",
-                        "type":  "Mod",
-                        "packs":  [
-                                      "Windows Voxy",
-                                      "Windows DH",
-                                      "Windows No LOD",
-                                      "Mac DH",
-                                      "Mac No LOD",
-                                      "Extreme Low End",
-                                      "Server"
-                                  ],
-                        "id":  "entityculling",
-                        "name":  "Entity Culling",
-                        "version":  "1.10.5",
-                        "authors":  [
-                                        "tr7zw"
-                                    ],
-                        "license":  [
-                                        "LicenseRef-tr7zw-Protective-License"
-                                    ],
-                        "projectUrl":  "https://modrinth.com/mod/entityculling",
-                        "issuesUrl":  "https://github.com/tr7zw/EntityCulling/issues",
-                        "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "NNAgCjsB",
-                        "modrinthVersionId":  "iiF6U3Ne",
-                        "sourceType":  "Modrinth SHA-512 match",
-                        "sourceVerified":  true,
-                        "licenseUrl":  "https://github.com/tr7zw/EntityCulling/blob/1.18/LICENSE-EntityCulling"
                     },
                     {
                         "sha512":  "ff7df5ff48c9a2605a8beaedf00ce59c426dd8e39e7f85135a534627c25248850f5a6217df34a72606052be64fc7217c017688871e4019f468010941e2051800",
@@ -1157,66 +1125,6 @@
                         "metadataSource":  "fabric.mod.json",
                         "modrinthProjectId":  "PYjpoAys",
                         "modrinthVersionId":  "Roe7K8pA",
-                        "sourceType":  "Modrinth SHA-512 match",
-                        "sourceVerified":  true,
-                        "licenseUrl":  ""
-                    },
-                    {
-                        "sha512":  "3c2ab4028e47da4155e860c9449231d7b17e10dc6d9d110ab58dc621ab806fcc0b21741c73a671c0d72fb9ae5021792cea18f09b515180ae33e86c4008c3d139",
-                        "file":  "lambdynamiclights-4.12.2+26.2.jar",
-                        "type":  "Mod",
-                        "packs":  [
-                                      "Windows Voxy",
-                                      "Windows DH",
-                                      "Windows No LOD",
-                                      "Mac DH",
-                                      "Mac No LOD"
-                                  ],
-                        "id":  "lambdynlights",
-                        "name":  "LambDynamicLights - Dynamic Lights",
-                        "version":  "4.12.2+26.2",
-                        "authors":  [
-                                        "LambdAurora"
-                                    ],
-                        "license":  [
-                                        "LicenseRef-Lambda-License"
-                                    ],
-                        "projectUrl":  "https://modrinth.com/mod/lambdynamiclights",
-                        "issuesUrl":  "https://github.com/LambdAurora/LambDynamicLights/issues",
-                        "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "yBW8D80W",
-                        "modrinthVersionId":  "jBLH7Qy8",
-                        "sourceType":  "Modrinth SHA-512 match",
-                        "sourceVerified":  true,
-                        "licenseUrl":  "https://github.com/LambdAurora/LambDynamicLights/blob/1.21.5/LICENSE"
-                    },
-                    {
-                        "sha512":  "f7a9682b24b2def42b2b96bfe027e755eb592d87271b7a102baf9c903ffbdd7566f43055f5624d76b466b347646641575c1d380b7cf0525314d8f16dffa142eb",
-                        "file":  "VisualWorkbench-v26.2.1-mc26.2.x-Fabric.jar",
-                        "type":  "Mod",
-                        "packs":  [
-                                      "Windows Voxy",
-                                      "Windows DH",
-                                      "Windows No LOD",
-                                      "Mac DH",
-                                      "Mac No LOD",
-                                      "Extreme Low End",
-                                      "Server"
-                                  ],
-                        "id":  "visualworkbench",
-                        "name":  "Visual Workbench",
-                        "version":  "26.2.1",
-                        "authors":  [
-                                        "Fuzs"
-                                    ],
-                        "license":  [
-                                        "MPL-2.0"
-                                    ],
-                        "projectUrl":  "https://modrinth.com/mod/visual-workbench",
-                        "issuesUrl":  "https://github.com/Fuzss/visualworkbench/issues",
-                        "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "kfqD1JRw",
-                        "modrinthVersionId":  "m2UkOgBN",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -1251,6 +1159,68 @@
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
+                    },
+                    {
+                        "sha512":  "f7a9682b24b2def42b2b96bfe027e755eb592d87271b7a102baf9c903ffbdd7566f43055f5624d76b466b347646641575c1d380b7cf0525314d8f16dffa142eb",
+                        "file":  "VisualWorkbench-v26.2.1-mc26.2.x-Fabric.jar",
+                        "type":  "Mod",
+                        "packs":  [
+                                      "Windows Voxy",
+                                      "Windows DH",
+                                      "Windows No LOD",
+                                      "Mac DH",
+                                      "Mac No LOD",
+                                      "Extreme Low End",
+                                      "Server"
+                                  ],
+                        "id":  "visualworkbench",
+                        "name":  "Visual Workbench",
+                        "version":  "26.2.1",
+                        "authors":  [
+                                        "Fuzs"
+                                    ],
+                        "license":  [
+                                        "MPL-2.0"
+                                    ],
+                        "projectUrl":  "https://modrinth.com/mod/visual-workbench",
+                        "issuesUrl":  "https://github.com/Fuzss/visualworkbench/issues",
+                        "metadataSource":  "fabric.mod.json",
+                        "modrinthProjectId":  "kfqD1JRw",
+                        "modrinthVersionId":  "m2UkOgBN",
+                        "sourceType":  "Modrinth SHA-512 match",
+                        "sourceVerified":  true,
+                        "licenseUrl":  ""
+                    },
+                    {
+                        "sha512":  "338813c344a2d924abbaaf249da2b52f5e162bd92407f3099c6ff1bce1c1efecde9df80efcc7b4de3b3a0044cc5735b96594b04da4594bb26793459fc6c960a6",
+                        "file":  "entityculling-fabric-1.10.5-mc26.2.jar",
+                        "type":  "Mod",
+                        "packs":  [
+                                      "Windows Voxy",
+                                      "Windows DH",
+                                      "Windows No LOD",
+                                      "Mac DH",
+                                      "Mac No LOD",
+                                      "Extreme Low End",
+                                      "Server"
+                                  ],
+                        "id":  "entityculling",
+                        "name":  "Entity Culling",
+                        "version":  "1.10.5",
+                        "authors":  [
+                                        "tr7zw"
+                                    ],
+                        "license":  [
+                                        "LicenseRef-tr7zw-Protective-License"
+                                    ],
+                        "projectUrl":  "https://modrinth.com/mod/entityculling",
+                        "issuesUrl":  "https://github.com/tr7zw/EntityCulling/issues",
+                        "metadataSource":  "fabric.mod.json",
+                        "modrinthProjectId":  "NNAgCjsB",
+                        "modrinthVersionId":  "iiF6U3Ne",
+                        "sourceType":  "Modrinth SHA-512 match",
+                        "sourceVerified":  true,
+                        "licenseUrl":  "https://github.com/tr7zw/EntityCulling/blob/1.18/LICENSE-EntityCulling"
                     },
                     {
                         "sha512":  "3d5c0fa58f75f3cd345bc48a08a783890aab8ef01d1be113088138dda1bf79030a782dd267688c07cc2ea7a7d09710d50797416fc2292c58004cc6ff27c791bd",
@@ -1368,6 +1338,35 @@
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  "https://github.com/Glitchfiend/TerraBlender/blob/TB-1.19.3-2.1.x/LICENSE"
+                    },
+                    {
+                        "sha512":  "3c2ab4028e47da4155e860c9449231d7b17e10dc6d9d110ab58dc621ab806fcc0b21741c73a671c0d72fb9ae5021792cea18f09b515180ae33e86c4008c3d139",
+                        "file":  "lambdynamiclights-4.12.2+26.2.jar",
+                        "type":  "Mod",
+                        "packs":  [
+                                      "Windows Voxy",
+                                      "Windows DH",
+                                      "Windows No LOD",
+                                      "Mac DH",
+                                      "Mac No LOD"
+                                  ],
+                        "id":  "lambdynlights",
+                        "name":  "LambDynamicLights - Dynamic Lights",
+                        "version":  "4.12.2+26.2",
+                        "authors":  [
+                                        "LambdAurora"
+                                    ],
+                        "license":  [
+                                        "LicenseRef-Lambda-License"
+                                    ],
+                        "projectUrl":  "https://modrinth.com/mod/lambdynamiclights",
+                        "issuesUrl":  "https://github.com/LambdAurora/LambDynamicLights/issues",
+                        "metadataSource":  "fabric.mod.json",
+                        "modrinthProjectId":  "yBW8D80W",
+                        "modrinthVersionId":  "jBLH7Qy8",
+                        "sourceType":  "Modrinth SHA-512 match",
+                        "sourceVerified":  true,
+                        "licenseUrl":  "https://github.com/LambdAurora/LambDynamicLights/blob/1.21.5/LICENSE"
                     },
                     {
                         "sha512":  "b83bfe7b218d0aa6232af977ae741dc1f82b10e50cd12bb759f65cf416b8b62beccb543e587ef0b9670abe03815660f8e091bc6823624d65cf07300571573516",
@@ -1488,35 +1487,6 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "def54ed9111036723d785c66626b7160039216ca5fcdce6d2a2e7f80b692a797da55d8ea0d33fd8cd4632d7ea5511bab3049fc184777ef1b84b398436542b052",
-                        "file":  "CrashAssistant-fabric-26.2-1.11.11.jar",
-                        "type":  "Mod",
-                        "packs":  [
-                                      "Windows Voxy",
-                                      "Windows DH",
-                                      "Windows No LOD",
-                                      "Mac DH",
-                                      "Mac No LOD"
-                                  ],
-                        "id":  "crash_assistant",
-                        "name":  "Crash Assistant",
-                        "version":  "1.11.11",
-                        "authors":  [
-                                        "KostromDan"
-                                    ],
-                        "license":  [
-                                        "LicenseRef-LicenseRef-KostromDan-MML-1.1.3"
-                                    ],
-                        "projectUrl":  "https://modrinth.com/mod/crash-assistant",
-                        "issuesUrl":  "https://github.com/KostromDan/Crash-Assistant/issues",
-                        "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "ix1qq8Ux",
-                        "modrinthVersionId":  "ageTkUqN",
-                        "sourceType":  "Modrinth SHA-512 match",
-                        "sourceVerified":  true,
-                        "licenseUrl":  "https://github.com/KostromDan/Crash-Assistant/blob/1.19-1.20.1/LICENSE.md"
-                    },
-                    {
                         "sha512":  "37b1e402f0df5a383656e21a38ee18cdd15cb4ba3fb62fbeba82ef4b959a4479fc32718ac0d9d154a7d9104c5f7315bfa67dbeced0b8ff240b8039d4848d5df1",
                         "file":  "cloth-config-26.2.155.jar",
                         "type":  "Mod",
@@ -1577,29 +1547,33 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "acd2d2123023178340fcf97f3f2621570207da178ddf21f54a3be89e97c365941bdacbc8af8d95a6df730c4c0b8f51cc5bd752aeffe8dd4e56d49b436e22b4b7",
-                        "file":  "Low Fire.zip",
-                        "type":  "Resource Pack",
+                        "sha512":  "def54ed9111036723d785c66626b7160039216ca5fcdce6d2a2e7f80b692a797da55d8ea0d33fd8cd4632d7ea5511bab3049fc184777ef1b84b398436542b052",
+                        "file":  "CrashAssistant-fabric-26.2-1.11.11.jar",
+                        "type":  "Mod",
                         "packs":  [
-                                      "Resource Library"
+                                      "Windows Voxy",
+                                      "Windows DH",
+                                      "Windows No LOD",
+                                      "Mac DH",
+                                      "Mac No LOD"
                                   ],
-                        "id":  null,
-                        "name":  "Low Fire",
-                        "version":  "1.3.0",
+                        "id":  "crash_assistant",
+                        "name":  "Crash Assistant",
+                        "version":  "1.11.11",
                         "authors":  [
-                                        "Oculie"
+                                        "KostromDan"
                                     ],
                         "license":  [
-                                        "LicenseRef-All-Rights-Reserved"
+                                        "LicenseRef-LicenseRef-KostromDan-MML-1.1.3"
                                     ],
-                        "projectUrl":  "https://modrinth.com/resourcepack/low-fire-pack",
-                        "issuesUrl":  "",
-                        "metadataSource":  "pack.mcmeta",
-                        "modrinthProjectId":  "1jZGHJ05",
-                        "modrinthVersionId":  "RP4ozzMC",
+                        "projectUrl":  "https://modrinth.com/mod/crash-assistant",
+                        "issuesUrl":  "https://github.com/KostromDan/Crash-Assistant/issues",
+                        "metadataSource":  "fabric.mod.json",
+                        "modrinthProjectId":  "ix1qq8Ux",
+                        "modrinthVersionId":  "ageTkUqN",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
-                        "licenseUrl":  ""
+                        "licenseUrl":  "https://github.com/KostromDan/Crash-Assistant/blob/1.19-1.20.1/LICENSE.md"
                     },
                     {
                         "sha512":  "42910eb6bbae735df370418c38f007a075cea79cdceb5c0d95a30c8be49d06938466ff10ae354e5107555540c1c498736da074c028080c44656e02ac286a262b",
@@ -1631,31 +1605,31 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "3c4ab508aba2bbb79b5d73caa7bac77f2caca075dbe09f64f8af35851ae04a41d81973a268ed5b99c75efe60db9d69715e4e01838410b55e1224a6ce856286cd",
-                        "file":  "FA+All_Extensions-v1.9.2.zip",
-                        "type":  "Resource Pack",
+                        "sha512":  "8c2a325a519c28170b3c6290e65f8ac7beb1b515515d226315454bc8ea4958f1366c4a8c0b564a609907dd85c3e75b0b1b626d0b2c13bf2b18e98dab1ff1cd20",
+                        "file":  "bbe-fabric-1.3.7+mc26.2.jar",
+                        "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
                                       "Windows DH",
                                       "Windows No LOD",
                                       "Mac DH",
                                       "Mac No LOD",
-                                      "Resource Library"
+                                      "Extreme Low End"
                                   ],
-                        "id":  null,
-                        "name":  "Fresh Animations: Extensions",
-                        "version":  "1.9.2",
+                        "id":  "betterblockentities",
+                        "name":  "Better Block Entities",
+                        "version":  "1.3.7+mc26.2",
                         "authors":  [
-                                        "FreshLX"
+                                        "ceeden"
                                     ],
                         "license":  [
-                                        "LicenseRef-All-Rights-Reserved"
+                                        "LGPL-3.0-or-later"
                                     ],
-                        "projectUrl":  "https://modrinth.com/resourcepack/fresh-animations-extensions",
-                        "issuesUrl":  "",
-                        "metadataSource":  "pack.mcmeta",
-                        "modrinthProjectId":  "YAVTU8mK",
-                        "modrinthVersionId":  "R5ZGSF8A",
+                        "projectUrl":  "https://modrinth.com/mod/better-block-entities",
+                        "issuesUrl":  "https://github.com/ceeden/betterblockentities/issues",
+                        "metadataSource":  "fabric.mod.json",
+                        "modrinthProjectId":  "ONZm0H7Y",
+                        "modrinthVersionId":  "IDqHHWrF",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -1688,62 +1662,6 @@
                         "metadataSource":  "fabric.mod.json",
                         "modrinthProjectId":  "YL57xq9U",
                         "modrinthVersionId":  "oaD6KQls",
-                        "sourceType":  "Modrinth SHA-512 match",
-                        "sourceVerified":  true,
-                        "licenseUrl":  ""
-                    },
-                    {
-                        "sha512":  "dafc60be4980ec40f40edc0f2625cb0976f3c9ce5ed86383146a120480826bb1de70ef5e38b7f1437294ed4d38c6ef3c82ebef0ae4e00b8cee165788c9c18280",
-                        "file":  "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
-                        "type":  "Shader",
-                        "packs":  [
-                                      "Shader Library"
-                                  ],
-                        "id":  null,
-                        "name":  "Bliss Shaders",
-                        "version":  "2.1.2",
-                        "authors":  [
-                                        "Xonk"
-                                    ],
-                        "license":  [
-                                        "LicenseRef-All-Rights-Reserved"
-                                    ],
-                        "projectUrl":  "https://modrinth.com/shader/bliss-shader",
-                        "issuesUrl":  "https://github.com/X0nk/Bliss-Shader/issues?q=label%3Abug",
-                        "metadataSource":  null,
-                        "modrinthProjectId":  "ZvMtQlho",
-                        "modrinthVersionId":  "kC2Y8q1P",
-                        "sourceType":  "Modrinth SHA-512 match",
-                        "sourceVerified":  true,
-                        "licenseUrl":  "https://github.com/X0nk/Bliss-Shader/blob/main/LICENSE.md"
-                    },
-                    {
-                        "sha512":  "0a500e29a1f3e595affc1621664b9c414dd5b46bf24a1096dbb67a6cf1bdde631b9c739190ff424cafb6e8ae86b9cfb773124cd585b06c86aeff3367d9d5ff6e",
-                        "file":  "veinminer-fabric-2.11.2.jar",
-                        "type":  "Mod",
-                        "packs":  [
-                                      "Windows Voxy",
-                                      "Windows DH",
-                                      "Windows No LOD",
-                                      "Mac DH",
-                                      "Mac No LOD",
-                                      "Extreme Low End",
-                                      "Server"
-                                  ],
-                        "id":  "veinminer",
-                        "name":  "VeinMiner",
-                        "version":  "2.11.2",
-                        "authors":  [
-                                        "Miraculixx, Max Bossing"
-                                    ],
-                        "license":  [
-                                        "AGPL-3.0-only"
-                                    ],
-                        "projectUrl":  "https://modrinth.com/mod/veinminer",
-                        "issuesUrl":  "",
-                        "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "OhduvhIc",
-                        "modrinthVersionId":  "3n61YghU",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -1782,8 +1700,8 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "db676376c05b7e912cdae5aad9e51f125adc1554ae2b204599ccb598751921aedbac98e97b9cba0333b6b52488c6b75c915a7dbd50436f97800387fe1aad1c50",
-                        "file":  "lithium-fabric-0.25.2+mc26.2.jar",
+                        "sha512":  "0a500e29a1f3e595affc1621664b9c414dd5b46bf24a1096dbb67a6cf1bdde631b9c739190ff424cafb6e8ae86b9cfb773124cd585b06c86aeff3367d9d5ff6e",
+                        "file":  "veinminer-fabric-2.11.2.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
@@ -1794,81 +1712,50 @@
                                       "Extreme Low End",
                                       "Server"
                                   ],
-                        "id":  "lithium",
-                        "name":  "Lithium",
-                        "version":  "mc26.2-0.25.2-fabric",
+                        "id":  "veinminer",
+                        "name":  "VeinMiner",
+                        "version":  "2.11.2",
                         "authors":  [
-                                        "JellySquid",
-                                        "2No2Name"
+                                        "Miraculixx, Max Bossing"
                                     ],
                         "license":  [
-                                        "LGPL-3.0-only"
+                                        "AGPL-3.0-only"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/lithium",
-                        "issuesUrl":  "https://github.com/caffeinemc/lithium-fabric/issues",
+                        "projectUrl":  "https://modrinth.com/mod/veinminer",
+                        "issuesUrl":  "",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "gvQqBUqZ",
-                        "modrinthVersionId":  "UPNexAfy",
+                        "modrinthProjectId":  "OhduvhIc",
+                        "modrinthVersionId":  "3n61YghU",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "c7fff6ddc463178f7154d433a9dfe21443732d1f70f450a5e03860f631adb2f6a445d72fb59ac017f014add4881edf59d9960e9163d6d497d117bd16a8ae5295",
-                        "file":  "bettermounthud-1.3.1.jar",
-                        "type":  "Mod",
-                        "packs":  [
-                                      "Windows Voxy",
-                                      "Windows DH",
-                                      "Windows No LOD",
-                                      "Mac DH",
-                                      "Mac No LOD"
-                                  ],
-                        "id":  "bettermounthud",
-                        "name":  "Better Mount HUD",
-                        "version":  "1.3.1",
-                        "authors":  [
-                                        "Lortseam"
-                                    ],
-                        "license":  [
-                                        "GPL-3.0-only"
-                                    ],
-                        "projectUrl":  "https://modrinth.com/mod/better-mount-hud",
-                        "issuesUrl":  "https://github.com/Lortseam/better-mount-hud/issues",
-                        "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "kqJFAPU9",
-                        "modrinthVersionId":  "M3Fe5t0L",
-                        "sourceType":  "Modrinth SHA-512 match",
-                        "sourceVerified":  true,
-                        "licenseUrl":  ""
-                    },
-                    {
-                        "sha512":  "b47a93c6fed4bfc9da70881d6eea5df771c79a679fc2473b0c987935736a3c85b1a5c7ab1a2580d0833413ddc6ca02aa5d5996e9e88bd7b0387a3ff74f049130",
-                        "file":  "FallingTree-26.2-25.jar",
-                        "type":  "Mod",
+                        "sha512":  "3c4ab508aba2bbb79b5d73caa7bac77f2caca075dbe09f64f8af35851ae04a41d81973a268ed5b99c75efe60db9d69715e4e01838410b55e1224a6ce856286cd",
+                        "file":  "FA+All_Extensions-v1.9.2.zip",
+                        "type":  "Resource Pack",
                         "packs":  [
                                       "Windows Voxy",
                                       "Windows DH",
                                       "Windows No LOD",
                                       "Mac DH",
                                       "Mac No LOD",
-                                      "Extreme Low End",
-                                      "Server"
+                                      "Resource Library"
                                   ],
-                        "id":  "fallingtree",
-                        "name":  "FallingTree",
-                        "version":  "26.2-26.2.0.3",
+                        "id":  null,
+                        "name":  "Fresh Animations: Extensions",
+                        "version":  "1.9.2",
                         "authors":  [
-                                        "Rakambda"
+                                        "FreshLX"
                                     ],
                         "license":  [
-                                        "LGPL-3.0-only"
+                                        "LicenseRef-All-Rights-Reserved"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/fallingtree",
-                        "issuesUrl":  "https://github.com/RakambdaOrg/FallingTree/issues",
-                        "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "Fb4jn8m6",
-                        "modrinthVersionId":  "sOoH5kkd",
+                        "projectUrl":  "https://modrinth.com/resourcepack/fresh-animations-extensions",
+                        "issuesUrl":  "",
+                        "metadataSource":  "pack.mcmeta",
+                        "modrinthProjectId":  "YAVTU8mK",
+                        "modrinthVersionId":  "R5ZGSF8A",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -1905,35 +1792,123 @@
                         "licenseUrl":  "https://creativecommons.org/licenses/by-nc-nd/4.0/"
                     },
                     {
-                        "sha512":  "c1b8857776a002c2232887d891bd49195f3c3127a7abe1242376ad20371e31554d8ba6c7c92a195b70782cad94fe970941487f2af530988d9b8819455c859e72",
-                        "file":  "DistantHorizons-3.2.0-b-26.2-fabric-neoforge.jar",
+                        "sha512":  "db676376c05b7e912cdae5aad9e51f125adc1554ae2b204599ccb598751921aedbac98e97b9cba0333b6b52488c6b75c915a7dbd50436f97800387fe1aad1c50",
+                        "file":  "lithium-fabric-0.25.2+mc26.2.jar",
                         "type":  "Mod",
                         "packs":  [
+                                      "Windows Voxy",
+                                      "Windows DH",
+                                      "Windows No LOD",
+                                      "Mac DH",
+                                      "Mac No LOD",
+                                      "Extreme Low End",
                                       "Server"
                                   ],
-                        "id":  "distanthorizons",
-                        "name":  "Distant Horizons",
-                        "version":  "3.2.0-b-26.2",
+                        "id":  "lithium",
+                        "name":  "Lithium",
+                        "version":  "mc26.2-0.25.2-fabric",
                         "authors":  [
-                                        "James Seibel",
-                                        "Leonardo Amato",
-                                        "Cola",
-                                        "coolGi",
-                                        "Ran",
-                                        "Leetom",
-                                        "pshsh"
+                                        "JellySquid",
+                                        "2No2Name"
                                     ],
                         "license":  [
                                         "LGPL-3.0-only"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/distanthorizons",
-                        "issuesUrl":  "https://gitlab.com/distant-horizons-team/distant-horizons/-/issues",
+                        "projectUrl":  "https://modrinth.com/mod/lithium",
+                        "issuesUrl":  "https://github.com/caffeinemc/lithium-fabric/issues",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "uCdwusMi",
-                        "modrinthVersionId":  "gBf0SaV1",
+                        "modrinthProjectId":  "gvQqBUqZ",
+                        "modrinthVersionId":  "UPNexAfy",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
+                    },
+                    {
+                        "sha512":  "e1d8c3aeb12c77eb7367881a3e942275b396a15ffe71e17218854630d9b74db2d0b620a51ee34a497506c9ada53e83d1f6750f2b4a126de94d2ddce6db1302a5",
+                        "file":  "mcw-bridges-3.1.2-mc26.2fabric.jar",
+                        "type":  "Mod",
+                        "packs":  [
+                                      "Windows Voxy",
+                                      "Windows DH",
+                                      "Windows No LOD",
+                                      "Mac DH",
+                                      "Mac No LOD",
+                                      "Extreme Low End",
+                                      "Server"
+                                  ],
+                        "id":  "mcwbridges",
+                        "name":  "Macaw\u0027s Bridges",
+                        "version":  "3.1.2",
+                        "authors":  [
+                                        "SketchMacaw"
+                                    ],
+                        "license":  [
+                                        "LicenseRef-All-Rights-Reserved"
+                                    ],
+                        "projectUrl":  "https://modrinth.com/mod/macaws-bridges",
+                        "issuesUrl":  "https://github.com/sketchmacaw/MacawsModsIssues/issues",
+                        "metadataSource":  "fabric.mod.json",
+                        "modrinthProjectId":  "GURcjz8O",
+                        "modrinthVersionId":  "O570Yvic",
+                        "sourceType":  "Modrinth SHA-512 match",
+                        "sourceVerified":  true,
+                        "licenseUrl":  ""
+                    },
+                    {
+                        "sha512":  "b47a93c6fed4bfc9da70881d6eea5df771c79a679fc2473b0c987935736a3c85b1a5c7ab1a2580d0833413ddc6ca02aa5d5996e9e88bd7b0387a3ff74f049130",
+                        "file":  "FallingTree-26.2-25.jar",
+                        "type":  "Mod",
+                        "packs":  [
+                                      "Windows Voxy",
+                                      "Windows DH",
+                                      "Windows No LOD",
+                                      "Mac DH",
+                                      "Mac No LOD",
+                                      "Extreme Low End",
+                                      "Server"
+                                  ],
+                        "id":  "fallingtree",
+                        "name":  "FallingTree",
+                        "version":  "26.2-26.2.0.3",
+                        "authors":  [
+                                        "Rakambda"
+                                    ],
+                        "license":  [
+                                        "LGPL-3.0-only"
+                                    ],
+                        "projectUrl":  "https://modrinth.com/mod/fallingtree",
+                        "issuesUrl":  "https://github.com/RakambdaOrg/FallingTree/issues",
+                        "metadataSource":  "fabric.mod.json",
+                        "modrinthProjectId":  "Fb4jn8m6",
+                        "modrinthVersionId":  "sOoH5kkd",
+                        "sourceType":  "Modrinth SHA-512 match",
+                        "sourceVerified":  true,
+                        "licenseUrl":  ""
+                    },
+                    {
+                        "sha512":  "dafc60be4980ec40f40edc0f2625cb0976f3c9ce5ed86383146a120480826bb1de70ef5e38b7f1437294ed4d38c6ef3c82ebef0ae4e00b8cee165788c9c18280",
+                        "file":  "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+                        "type":  "Shader",
+                        "packs":  [
+                                      "Shader Library"
+                                  ],
+                        "id":  null,
+                        "name":  "Bliss Shaders",
+                        "version":  "2.1.2",
+                        "authors":  [
+                                        "Xonk"
+                                    ],
+                        "license":  [
+                                        "LicenseRef-All-Rights-Reserved"
+                                    ],
+                        "projectUrl":  "https://modrinth.com/shader/bliss-shader",
+                        "issuesUrl":  "https://github.com/X0nk/Bliss-Shader/issues?q=label%3Abug",
+                        "metadataSource":  null,
+                        "modrinthProjectId":  "ZvMtQlho",
+                        "modrinthVersionId":  "kC2Y8q1P",
+                        "sourceType":  "Modrinth SHA-512 match",
+                        "sourceVerified":  true,
+                        "licenseUrl":  "https://github.com/X0nk/Bliss-Shader/blob/main/LICENSE.md"
                     },
                     {
                         "sha512":  "ad0761c8d752b6c2ae05c49cc4e2d175696d9a2ee857c1d4fa36ef9e5529a6d376374876050a363666ccd679d6e99b2593cb0d8094ae8d49f0f1ed02e3d0477b",
@@ -1962,8 +1937,8 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "8c2a325a519c28170b3c6290e65f8ac7beb1b515515d226315454bc8ea4958f1366c4a8c0b564a609907dd85c3e75b0b1b626d0b2c13bf2b18e98dab1ff1cd20",
-                        "file":  "bbe-fabric-1.3.7+mc26.2.jar",
+                        "sha512":  "ca238ee480dfb237062200fd300be493d022e0837b6998c15807e01488b2a30d5ba4731e5c6d05a5333719c8923a1cb84c06fd6fa45aa88ced492ddb5b40906f",
+                        "file":  "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
@@ -1971,22 +1946,23 @@
                                       "Windows No LOD",
                                       "Mac DH",
                                       "Mac No LOD",
-                                      "Extreme Low End"
+                                      "Extreme Low End",
+                                      "Server"
                                   ],
-                        "id":  "betterblockentities",
-                        "name":  "Better Block Entities",
-                        "version":  "1.3.7+mc26.2",
+                        "id":  "fabric-language-kotlin",
+                        "name":  "Fabric Language Kotlin",
+                        "version":  "1.13.12+kotlin.2.4.0",
                         "authors":  [
-                                        "ceeden"
+                                        "FabricMC"
                                     ],
                         "license":  [
-                                        "LGPL-3.0-or-later"
+                                        "Apache-2.0"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/better-block-entities",
-                        "issuesUrl":  "https://github.com/ceeden/betterblockentities/issues",
+                        "projectUrl":  "https://modrinth.com/mod/fabric-language-kotlin",
+                        "issuesUrl":  "https://github.com/FabricMC/fabric-language-kotlin/issues",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "ONZm0H7Y",
-                        "modrinthVersionId":  "IDqHHWrF",
+                        "modrinthProjectId":  "Ha28R6CL",
+                        "modrinthVersionId":  "Pd0xrHCw",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -2023,32 +1999,32 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "ca238ee480dfb237062200fd300be493d022e0837b6998c15807e01488b2a30d5ba4731e5c6d05a5333719c8923a1cb84c06fd6fa45aa88ced492ddb5b40906f",
-                        "file":  "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+                        "sha512":  "c1b8857776a002c2232887d891bd49195f3c3127a7abe1242376ad20371e31554d8ba6c7c92a195b70782cad94fe970941487f2af530988d9b8819455c859e72",
+                        "file":  "DistantHorizons-3.2.0-b-26.2-fabric-neoforge.jar",
                         "type":  "Mod",
                         "packs":  [
-                                      "Windows Voxy",
-                                      "Windows DH",
-                                      "Windows No LOD",
-                                      "Mac DH",
-                                      "Mac No LOD",
-                                      "Extreme Low End",
                                       "Server"
                                   ],
-                        "id":  "fabric-language-kotlin",
-                        "name":  "Fabric Language Kotlin",
-                        "version":  "1.13.12+kotlin.2.4.0",
+                        "id":  "distanthorizons",
+                        "name":  "Distant Horizons",
+                        "version":  "3.2.0-b-26.2",
                         "authors":  [
-                                        "FabricMC"
+                                        "James Seibel",
+                                        "Leonardo Amato",
+                                        "Cola",
+                                        "coolGi",
+                                        "Ran",
+                                        "Leetom",
+                                        "pshsh"
                                     ],
                         "license":  [
-                                        "Apache-2.0"
+                                        "LGPL-3.0-only"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/fabric-language-kotlin",
-                        "issuesUrl":  "https://github.com/FabricMC/fabric-language-kotlin/issues",
+                        "projectUrl":  "https://modrinth.com/mod/distanthorizons",
+                        "issuesUrl":  "https://gitlab.com/distant-horizons-team/distant-horizons/-/issues",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "Ha28R6CL",
-                        "modrinthVersionId":  "Pd0xrHCw",
+                        "modrinthProjectId":  "uCdwusMi",
+                        "modrinthVersionId":  "gBf0SaV1",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -2178,40 +2154,6 @@
                         "licenseUrl":  "https://github.com/axperty/storagedelight/blob/1.21.9-neoforge/LICENSE"
                     },
                     {
-                        "sha512":  "04a435e483d8c0204a49769cc749b1ec4d34a005b4a266cf0b3a62f6cc3d7c28bbbf50f5e2b684ab70b617d98e2bbe9e1e98e0a237564c572f1d6391afa66d5e",
-                        "file":  "dungeons-and-taverns-5.3.0.jar",
-                        "type":  "Mod",
-                        "packs":  [
-                                      "Windows Voxy",
-                                      "Windows DH",
-                                      "Windows No LOD",
-                                      "Mac DH",
-                                      "Mac No LOD",
-                                      "Extreme Low End",
-                                      "Server"
-                                  ],
-                        "id":  "mr_dungeons_andtaverns",
-                        "name":  "Dungeons and Taverns",
-                        "version":  "5.3.0+mod",
-                        "authors":  [
-                                        "Konci",
-                                        "Whity",
-                                        "MiziraGamez",
-                                        "NovaWostra"
-                                    ],
-                        "license":  [
-                                        "LicenseRef-All-Rights-Reserved"
-                                    ],
-                        "projectUrl":  "https://modrinth.com/mod/dungeons-and-taverns",
-                        "issuesUrl":  "",
-                        "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "tpehi7ww",
-                        "modrinthVersionId":  "kejPgknA",
-                        "sourceType":  "Modrinth SHA-512 match",
-                        "sourceVerified":  true,
-                        "licenseUrl":  ""
-                    },
-                    {
                         "sha512":  "886ed7840009a865246047a9ed4fd37f161bf25f80ed586c889083086beb67e2278b41ff62dfea318d24b338f23a4198a577e09d3504710a6a719f118cbd881c",
                         "file":  "shulkerboxtooltip-fabric-5.4.0+26.2.jar",
                         "type":  "Mod",
@@ -2328,33 +2270,35 @@
                         "licenseUrl":  "https://github.com/ComplementaryDevelopment/ComplementaryReimagined/blob/main/License.txt"
                     },
                     {
-                        "sha512":  "e26bd048341af5f7c2fbc4e269171b62bbeccfbbf11943c1193c7e07bcee983fd1a29b0c8f9235ed5123918f85a218c65fef64383cda636ab1ac02fdf7afe487",
-                        "file":  "EnchantmentDescriptions-fabric-MC26.2-26.2.0.1.jar",
+                        "sha512":  "5810524429061b268bdc1befc56d05d50dda68499b30d2cbd1097a4358accaa845097f208fc2df09d3b9a28883aef2f2f57c8b3935db96fa5e1c62a8f431039f",
+                        "file":  "variantsandventures-fabric-1.0.26+mc26.2.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
                                       "Windows DH",
                                       "Windows No LOD",
                                       "Mac DH",
-                                      "Mac No LOD"
+                                      "Mac No LOD",
+                                      "Extreme Low End",
+                                      "Server"
                                   ],
-                        "id":  "enchdesc",
-                        "name":  "Enchantment Descriptions",
-                        "version":  "26.2.0.1",
+                        "id":  "variantsandventures",
+                        "name":  "Variants\u0026Ventures",
+                        "version":  "fabric-1.0.26+mc26.2",
                         "authors":  [
-                                        "Darkhax"
+                                        "Faboslav"
                                     ],
                         "license":  [
-                                        "LGPL-2.1-only"
+                                        "LicenseRef-CC-BY-NC-ND-4.0"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/enchantment-descriptions",
-                        "issuesUrl":  "https://github.com/Darkhax-Minecraft/Enchantment-Descriptions/issues",
+                        "projectUrl":  "https://modrinth.com/mod/variants-and-ventures",
+                        "issuesUrl":  "https://github.com/Faboslav/variants-and-ventures/issues",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "UVtY3ZAC",
-                        "modrinthVersionId":  "2khC341p",
+                        "modrinthProjectId":  "lNDRiXkY",
+                        "modrinthVersionId":  "dOfY3eZf",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
-                        "licenseUrl":  ""
+                        "licenseUrl":  "https://raw.githubusercontent.com/Faboslav/variants-and-ventures/master/LICENSE.txt"
                     },
                     {
                         "sha512":  "76e6ba779eeacd7a47335bb3160e3bf39b0c570128b93c2975c06e1ef00aa0493da0d411ecb44fe55786f7edfb7f5fe95b3b2e398b1984a15708f4718ceec329",
@@ -2388,33 +2332,30 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "1c56bfcb82da74d3bdb48b2074db39e06e62be6500a01f2989692ea18c87058c165a4efa7603cf115eeeb01a2ffdc71c70040697cba7fe922d64e99cae5331a1",
-                        "file":  "DiagonalFences-v26.2.0-mc26.2.x-Fabric.jar",
+                        "sha512":  "e26bd048341af5f7c2fbc4e269171b62bbeccfbbf11943c1193c7e07bcee983fd1a29b0c8f9235ed5123918f85a218c65fef64383cda636ab1ac02fdf7afe487",
+                        "file":  "EnchantmentDescriptions-fabric-MC26.2-26.2.0.1.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
                                       "Windows DH",
                                       "Windows No LOD",
                                       "Mac DH",
-                                      "Mac No LOD",
-                                      "Extreme Low End",
-                                      "Server"
+                                      "Mac No LOD"
                                   ],
-                        "id":  "diagonalfences",
-                        "name":  "Diagonal Fences",
-                        "version":  "26.2.0",
+                        "id":  "enchdesc",
+                        "name":  "Enchantment Descriptions",
+                        "version":  "26.2.0.1",
                         "authors":  [
-                                        "Fuzs",
-                                        "XFactHD"
+                                        "Darkhax"
                                     ],
                         "license":  [
-                                        "MPL-2.0"
+                                        "LGPL-2.1-only"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/diagonal-fences",
-                        "issuesUrl":  "https://github.com/Fuzss/diagonalfences/issues",
+                        "projectUrl":  "https://modrinth.com/mod/enchantment-descriptions",
+                        "issuesUrl":  "https://github.com/Darkhax-Minecraft/Enchantment-Descriptions/issues",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "IKARgflD",
-                        "modrinthVersionId":  "XxnvsgPA",
+                        "modrinthProjectId":  "UVtY3ZAC",
+                        "modrinthVersionId":  "2khC341p",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -2451,8 +2392,8 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "5810524429061b268bdc1befc56d05d50dda68499b30d2cbd1097a4358accaa845097f208fc2df09d3b9a28883aef2f2f57c8b3935db96fa5e1c62a8f431039f",
-                        "file":  "variantsandventures-fabric-1.0.26+mc26.2.jar",
+                        "sha512":  "e318ec6ea4c15b456c188fdaec3447b8ae875efa21961be5fc365a50aacf4bd7b6b939950a48707a20764a78c42eea37e19052e3cc55c843e147dfb788c2e959",
+                        "file":  "t_and_t-fabric-neoforge-1.13.11.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
@@ -2463,29 +2404,36 @@
                                       "Extreme Low End",
                                       "Server"
                                   ],
-                        "id":  "variantsandventures",
-                        "name":  "Variants\u0026Ventures",
-                        "version":  "fabric-1.0.26+mc26.2",
+                        "id":  "t_and_t",
+                        "name":  "Towns and Towers",
+                        "version":  "1.13.11",
                         "authors":  [
-                                        "Faboslav"
+                                        "Kubek",
+                                        "Biban_Auriu",
+                                        "Cristelknight999"
                                     ],
                         "license":  [
-                                        "LicenseRef-CC-BY-NC-ND-4.0"
+                                        "CC-BY-NC-SA-4.0"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/variants-and-ventures",
-                        "issuesUrl":  "https://github.com/Faboslav/variants-and-ventures/issues",
+                        "projectUrl":  "https://modrinth.com/mod/towns-and-towers",
+                        "issuesUrl":  "",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "lNDRiXkY",
-                        "modrinthVersionId":  "dOfY3eZf",
+                        "modrinthProjectId":  "DjLobEOy",
+                        "modrinthVersionId":  "eN3WLQ3P",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
-                        "licenseUrl":  "https://raw.githubusercontent.com/Faboslav/variants-and-ventures/master/LICENSE.txt"
+                        "licenseUrl":  ""
                     },
                     {
                         "sha512":  "3805ba2de77ef24ec9b3837f0374dcd5003db6e2057bbca2719f1649a642547757933df65f3d1e892246a3a9392291957a4f47c37a3e35c5e0d4d322d2191e19",
                         "file":  "Low Shield.zip",
                         "type":  "Resource Pack",
                         "packs":  [
+                                      "Windows Voxy",
+                                      "Windows DH",
+                                      "Windows No LOD",
+                                      "Mac DH",
+                                      "Mac No LOD",
                                       "Resource Library"
                                   ],
                         "id":  null,
@@ -2600,119 +2548,6 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "e8fcf1a8cb9ebbc38e3892adbe46fb373e9dc5960868d98b5d8471980134ebdf326e614e07979b21588fa3735c5af10d766209da6e7dc3e4d2da937fd68730ee",
-                        "file":  "indium-server-dummy.jar",
-                        "type":  "Mod",
-                        "packs":  [
-                                      "Server"
-                                  ],
-                        "id":  "indiumprovider",
-                        "name":  "Indium Server Dummy (compatibility shim)",
-                        "version":  "1.0.0",
-                        "authors":  [
-                                        "Dylan Weaver (Stixity)"
-                                    ],
-                        "license":  [
-                                        "Pack-original metadata component; redistribution with this modpack permitted by the author"
-                                    ],
-                        "projectUrl":  "original-components/indium-server-dummy/README.md",
-                        "issuesUrl":  null,
-                        "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  null,
-                        "modrinthVersionId":  null,
-                        "sourceType":  "Pack-original documentation",
-                        "sourceVerified":  true
-                    },
-                    {
-                        "sha512":  "c64c0caa32fd0125f212554b63ace62996e6a0d2e51b8ab1dd1d9cf09b5fdd6a956fdf2e9d59e857dc075a69b066317cb33e0b8d61a2359e2e049a0795ef9cf5",
-                        "file":  "mcw-doors-1.1.5-mc26.2fabric.jar",
-                        "type":  "Mod",
-                        "packs":  [
-                                      "Windows Voxy",
-                                      "Windows DH",
-                                      "Windows No LOD",
-                                      "Mac DH",
-                                      "Mac No LOD",
-                                      "Extreme Low End",
-                                      "Server"
-                                  ],
-                        "id":  "mcwdoors",
-                        "name":  "Macaw\u0027s Doors",
-                        "version":  "1.1.5",
-                        "authors":  [
-                                        "Sketch Macaw \u0026 Peachy Macaw"
-                                    ],
-                        "license":  [
-                                        "MIT"
-                                    ],
-                        "projectUrl":  "https://modrinth.com/mod/macaws-doors",
-                        "issuesUrl":  "https://github.com/sketchmacaw/MacawsModsIssues/issues",
-                        "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "kNxa8z3e",
-                        "modrinthVersionId":  "XxNfkmgt",
-                        "sourceType":  "Modrinth SHA-512 match",
-                        "sourceVerified":  true,
-                        "licenseUrl":  ""
-                    },
-                    {
-                        "sha512":  "e318ec6ea4c15b456c188fdaec3447b8ae875efa21961be5fc365a50aacf4bd7b6b939950a48707a20764a78c42eea37e19052e3cc55c843e147dfb788c2e959",
-                        "file":  "t_and_t-fabric-neoforge-1.13.11.jar",
-                        "type":  "Mod",
-                        "packs":  [
-                                      "Windows Voxy",
-                                      "Windows DH",
-                                      "Windows No LOD",
-                                      "Mac DH",
-                                      "Mac No LOD",
-                                      "Extreme Low End",
-                                      "Server"
-                                  ],
-                        "id":  "t_and_t",
-                        "name":  "Towns and Towers",
-                        "version":  "1.13.11",
-                        "authors":  [
-                                        "Kubek",
-                                        "Biban_Auriu",
-                                        "Cristelknight999"
-                                    ],
-                        "license":  [
-                                        "CC-BY-NC-SA-4.0"
-                                    ],
-                        "projectUrl":  "https://modrinth.com/mod/towns-and-towers",
-                        "issuesUrl":  "",
-                        "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "DjLobEOy",
-                        "modrinthVersionId":  "eN3WLQ3P",
-                        "sourceType":  "Modrinth SHA-512 match",
-                        "sourceVerified":  true,
-                        "licenseUrl":  ""
-                    },
-                    {
-                        "sha512":  "c7a9bf31881669b2a0f1c0d1adf0e8e0b78d09989d778e1228c20d38b4a77e6d73ffbbcad4b2ed847ac13c4a8ff3ea479d9a7942ecef228876f5b4cb23b1c0df",
-                        "file":  "voxy-extra-0.2.2.jar",
-                        "type":  "Mod",
-                        "packs":  [
-                                      "Windows Voxy"
-                                  ],
-                        "id":  "voxy-extra",
-                        "name":  "Voxy Extra",
-                        "version":  "0.2.2",
-                        "authors":  [
-                                        "ImGRUI"
-                                    ],
-                        "license":  [
-                                        "LGPL-3.0-only"
-                                    ],
-                        "projectUrl":  "https://modrinth.com/mod/voxy-extra",
-                        "issuesUrl":  "https://github.com/ImGRUI/voxy-extra/issues",
-                        "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "znQnhrkQ",
-                        "modrinthVersionId":  "MhxIwapU",
-                        "sourceType":  "Modrinth SHA-512 match",
-                        "sourceVerified":  true,
-                        "licenseUrl":  ""
-                    },
-                    {
                         "sha512":  "74b1f29439e2946ef9b3f9d8d7915bc112239d5009587c7817c4f45bee7e7a48906ffcddab67f0078fe82e996093657ab874a5a0498ccc045dda4bd562bc7702",
                         "file":  "Structory_Towers_26.2_v1.0.17.jar",
                         "type":  "Mod",
@@ -2746,8 +2581,8 @@
                         "licenseUrl":  "https://github.com/Stardust-Labs-MC/license/blob/main/license.txt"
                     },
                     {
-                        "sha512":  "77195c223a7f8d42fe8cc69a9a38907d04ba4804b8392c08d6cab5de1721e7bbfa5424ded2fa0e38b0b61a6df3cec607e5a7a2c168d2061dfb853a905c1e1ae5",
-                        "file":  "comforts-fabric-16.0.0+26.2.jar",
+                        "sha512":  "c64c0caa32fd0125f212554b63ace62996e6a0d2e51b8ab1dd1d9cf09b5fdd6a956fdf2e9d59e857dc075a69b066317cb33e0b8d61a2359e2e049a0795ef9cf5",
+                        "file":  "mcw-doors-1.1.5-mc26.2fabric.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
@@ -2758,20 +2593,101 @@
                                       "Extreme Low End",
                                       "Server"
                                   ],
-                        "id":  "comforts",
-                        "name":  "Comforts",
-                        "version":  "16.0.0+26.2",
+                        "id":  "mcwdoors",
+                        "name":  "Macaw\u0027s Doors",
+                        "version":  "1.1.5",
                         "authors":  [
-                                        "Illusive Soulworks"
+                                        "Sketch Macaw \u0026 Peachy Macaw"
                                     ],
                         "license":  [
-                                        "LGPL-3.0-or-later"
+                                        "MIT"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/comforts",
-                        "issuesUrl":  "https://github.com/illusivesoulworks/comforts/issues",
+                        "projectUrl":  "https://modrinth.com/mod/macaws-doors",
+                        "issuesUrl":  "https://github.com/sketchmacaw/MacawsModsIssues/issues",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "SaCpeal4",
-                        "modrinthVersionId":  "FBaK3TtW",
+                        "modrinthProjectId":  "kNxa8z3e",
+                        "modrinthVersionId":  "XxNfkmgt",
+                        "sourceType":  "Modrinth SHA-512 match",
+                        "sourceVerified":  true,
+                        "licenseUrl":  ""
+                    },
+                    {
+                        "sha512":  "e8fcf1a8cb9ebbc38e3892adbe46fb373e9dc5960868d98b5d8471980134ebdf326e614e07979b21588fa3735c5af10d766209da6e7dc3e4d2da937fd68730ee",
+                        "file":  "indium-server-dummy.jar",
+                        "type":  "Mod",
+                        "packs":  [
+                                      "Server"
+                                  ],
+                        "id":  "indiumprovider",
+                        "name":  "Indium Server Dummy (compatibility shim)",
+                        "version":  "1.0.0",
+                        "authors":  [
+                                        "Dylan Weaver (Stixity)"
+                                    ],
+                        "license":  [
+                                        "Pack-original metadata component; redistribution with this modpack permitted by the author"
+                                    ],
+                        "projectUrl":  "original-components/indium-server-dummy/README.md",
+                        "issuesUrl":  null,
+                        "metadataSource":  "fabric.mod.json",
+                        "modrinthProjectId":  null,
+                        "modrinthVersionId":  null,
+                        "sourceType":  "Pack-original documentation",
+                        "sourceVerified":  true
+                    },
+                    {
+                        "sha512":  "c7a9bf31881669b2a0f1c0d1adf0e8e0b78d09989d778e1228c20d38b4a77e6d73ffbbcad4b2ed847ac13c4a8ff3ea479d9a7942ecef228876f5b4cb23b1c0df",
+                        "file":  "voxy-extra-0.2.2.jar",
+                        "type":  "Mod",
+                        "packs":  [
+                                      "Windows Voxy"
+                                  ],
+                        "id":  "voxy-extra",
+                        "name":  "Voxy Extra",
+                        "version":  "0.2.2",
+                        "authors":  [
+                                        "ImGRUI"
+                                    ],
+                        "license":  [
+                                        "LGPL-3.0-only"
+                                    ],
+                        "projectUrl":  "https://modrinth.com/mod/voxy-extra",
+                        "issuesUrl":  "https://github.com/ImGRUI/voxy-extra/issues",
+                        "metadataSource":  "fabric.mod.json",
+                        "modrinthProjectId":  "znQnhrkQ",
+                        "modrinthVersionId":  "MhxIwapU",
+                        "sourceType":  "Modrinth SHA-512 match",
+                        "sourceVerified":  true,
+                        "licenseUrl":  ""
+                    },
+                    {
+                        "sha512":  "1c56bfcb82da74d3bdb48b2074db39e06e62be6500a01f2989692ea18c87058c165a4efa7603cf115eeeb01a2ffdc71c70040697cba7fe922d64e99cae5331a1",
+                        "file":  "DiagonalFences-v26.2.0-mc26.2.x-Fabric.jar",
+                        "type":  "Mod",
+                        "packs":  [
+                                      "Windows Voxy",
+                                      "Windows DH",
+                                      "Windows No LOD",
+                                      "Mac DH",
+                                      "Mac No LOD",
+                                      "Extreme Low End",
+                                      "Server"
+                                  ],
+                        "id":  "diagonalfences",
+                        "name":  "Diagonal Fences",
+                        "version":  "26.2.0",
+                        "authors":  [
+                                        "Fuzs",
+                                        "XFactHD"
+                                    ],
+                        "license":  [
+                                        "MPL-2.0"
+                                    ],
+                        "projectUrl":  "https://modrinth.com/mod/diagonal-fences",
+                        "issuesUrl":  "https://github.com/Fuzss/diagonalfences/issues",
+                        "metadataSource":  "fabric.mod.json",
+                        "modrinthProjectId":  "IKARgflD",
+                        "modrinthVersionId":  "XxnvsgPA",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -2808,8 +2724,8 @@
                         "licenseUrl":  "https://mods.twelveiterations.com/permissions"
                     },
                     {
-                        "sha512":  "d5663eebe226edc925b7fa00e9056af57ca13b70554c00ebb8b08418fa5abfbef64a1ce25d5d538708b1f559774e423c44f701571a082ecf8787bdf9033f7156",
-                        "file":  "tool-trims-v3.0.7-for-1.21.11+.jar",
+                        "sha512":  "14bad0cfeeed80a53ad216af989e3cf19875324474783d76da3a40514d20dbbbf9e06ff71aa472a51086130b2747ebef6a78f47a5a657672de13d4c374ce0e46",
+                        "file":  "1.3.5-backpacks_mod-26.2.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
@@ -2820,23 +2736,25 @@
                                       "Extreme Low End",
                                       "Server"
                                   ],
-                        "id":  "tool_trims",
-                        "name":  "Tool Trims",
-                        "version":  "3.0.7",
+                        "id":  "mr_vanilla_backpacks",
+                        "name":  "Backpacks!",
+                        "version":  "1.3.5",
                         "authors":  [
-                                        "JoeFly"
+                                        "ElGeroIngles",
+                                        "Mitsaori",
+                                        "EclipseStudios"
                                     ],
                         "license":  [
-                                        "LicenseRef-All-Rights-Reserved"
+                                        "Apache-2.0"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/tool-trims",
-                        "issuesUrl":  "https://github.com/thejoefly/ToolTrims/issues",
+                        "projectUrl":  "https://modrinth.com/mod/vanilla-backpacks",
+                        "issuesUrl":  "https://discord.gg/4pYjW9btNc",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "uXeEiQk1",
-                        "modrinthVersionId":  "yvm41I5r",
+                        "modrinthProjectId":  "MGcd6kTf",
+                        "modrinthVersionId":  "X3jGY5qn",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
-                        "licenseUrl":  ""
+                        "licenseUrl":  "https://choosealicense.com/licenses/apache-2.0/"
                     },
                     {
                         "sha512":  "1107db823f2548cee85fe902885367d0164fe2745f32fcf3aacfc341483c5730440a0059cb5c0c87ca3333dca50e8e0049163174bfc21c1e25c69bad379b4d11",
@@ -2870,8 +2788,8 @@
                         "licenseUrl":  "https://raw.githubusercontent.com/lowercasebtw/optiboxes/refs/heads/1_21_5/LICENSE"
                     },
                     {
-                        "sha512":  "14bad0cfeeed80a53ad216af989e3cf19875324474783d76da3a40514d20dbbbf9e06ff71aa472a51086130b2747ebef6a78f47a5a657672de13d4c374ce0e46",
-                        "file":  "1.3.5-backpacks_mod-26.2.jar",
+                        "sha512":  "77195c223a7f8d42fe8cc69a9a38907d04ba4804b8392c08d6cab5de1721e7bbfa5424ded2fa0e38b0b61a6df3cec607e5a7a2c168d2061dfb853a905c1e1ae5",
+                        "file":  "comforts-fabric-16.0.0+26.2.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
@@ -2882,25 +2800,23 @@
                                       "Extreme Low End",
                                       "Server"
                                   ],
-                        "id":  "mr_vanilla_backpacks",
-                        "name":  "Backpacks!",
-                        "version":  "1.3.5",
+                        "id":  "comforts",
+                        "name":  "Comforts",
+                        "version":  "16.0.0+26.2",
                         "authors":  [
-                                        "ElGeroIngles",
-                                        "Mitsaori",
-                                        "EclipseStudios"
+                                        "Illusive Soulworks"
                                     ],
                         "license":  [
-                                        "Apache-2.0"
+                                        "LGPL-3.0-or-later"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/vanilla-backpacks",
-                        "issuesUrl":  "https://discord.gg/4pYjW9btNc",
+                        "projectUrl":  "https://modrinth.com/mod/comforts",
+                        "issuesUrl":  "https://github.com/illusivesoulworks/comforts/issues",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "MGcd6kTf",
-                        "modrinthVersionId":  "X3jGY5qn",
+                        "modrinthProjectId":  "SaCpeal4",
+                        "modrinthVersionId":  "FBaK3TtW",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
-                        "licenseUrl":  "https://choosealicense.com/licenses/apache-2.0/"
+                        "licenseUrl":  ""
                     },
                     {
                         "sha512":  "5cd018acdf3eb5a4a4a3caaba74bc93343437fc372fed8b5294f2cc0141dff3ad85bd4833faaa67a6ea008fad9563adab84ff8c25997b8d15f49286437a19d6c",
@@ -3027,6 +2943,37 @@
                         "licenseUrl":  ""
                     },
                     {
+                        "sha512":  "d5663eebe226edc925b7fa00e9056af57ca13b70554c00ebb8b08418fa5abfbef64a1ce25d5d538708b1f559774e423c44f701571a082ecf8787bdf9033f7156",
+                        "file":  "tool-trims-v3.0.7-for-1.21.11+.jar",
+                        "type":  "Mod",
+                        "packs":  [
+                                      "Windows Voxy",
+                                      "Windows DH",
+                                      "Windows No LOD",
+                                      "Mac DH",
+                                      "Mac No LOD",
+                                      "Extreme Low End",
+                                      "Server"
+                                  ],
+                        "id":  "tool_trims",
+                        "name":  "Tool Trims",
+                        "version":  "3.0.7",
+                        "authors":  [
+                                        "JoeFly"
+                                    ],
+                        "license":  [
+                                        "LicenseRef-All-Rights-Reserved"
+                                    ],
+                        "projectUrl":  "https://modrinth.com/mod/tool-trims",
+                        "issuesUrl":  "https://github.com/thejoefly/ToolTrims/issues",
+                        "metadataSource":  "fabric.mod.json",
+                        "modrinthProjectId":  "uXeEiQk1",
+                        "modrinthVersionId":  "yvm41I5r",
+                        "sourceType":  "Modrinth SHA-512 match",
+                        "sourceVerified":  true,
+                        "licenseUrl":  ""
+                    },
+                    {
                         "sha512":  "5bbc436d07f836cd90b88287e2ef27f1cd67e26185b2cd4a62cb2ae850eb74e5edbbc7ba7772e92ea91ebf35b263f8815421e3d5e7d2836cb28993ba1d534816",
                         "file":  "fabric-api-0.156.0+26.2.jar",
                         "type":  "Mod",
@@ -3148,65 +3095,33 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "6b40e8bb2b43ccbde61232d045615100e17fee4b7fdcf124e013f4bece75a09b4fae7df74b09571df1b7b9324b2eccc7c1216458b9dc45810f226906b579b28e",
-                        "file":  "balm-fabric-26.2-26.2.0.5.jar",
+                        "sha512":  "b8516564b2ec47f34569843dc72d93d4053122693377193e3063b38602e760c8e1177239cb1a8d7b04d4c1e1b8476f66a13bac4d956fa9ad4666411476a78fdc",
+                        "file":  "language-reload-1.7.7+26.2.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
                                       "Windows DH",
                                       "Windows No LOD",
                                       "Mac DH",
-                                      "Mac No LOD",
-                                      "Extreme Low End",
-                                      "Server"
+                                      "Mac No LOD"
                                   ],
-                        "id":  "balm",
-                        "name":  "Balm",
-                        "version":  "26.2.0.5+fabric-26.2",
+                        "id":  "languagereload",
+                        "name":  "Language Reload",
+                        "version":  "1.7.7+26.2",
                         "authors":  [
-                                        "BlayTheNinth"
+                                        "Jerozgen"
                                     ],
                         "license":  [
-                                        "LicenseRef-All-Rights-Reserved"
+                                        "MIT"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/balm",
-                        "issuesUrl":  "https://github.com/TwelveIterations/Balm/issues",
+                        "projectUrl":  "https://modrinth.com/mod/language-reload",
+                        "issuesUrl":  "https://github.com/Jerozgen/LanguageReload/issues",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "MBAkmtvl",
-                        "modrinthVersionId":  "ln6vafmE",
+                        "modrinthProjectId":  "uLbm7CG6",
+                        "modrinthVersionId":  "L79IylWm",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
-                        "licenseUrl":  "https://mods.twelveiterations.com/permissions"
-                    },
-                    {
-                        "sha512":  "e6bbd9f881f6b1e44070f1f2b6c92c153b385594ccf0e6a57bc385e9cc1fafd3cf66e43af28c468edba57388255904c35bfc38b82c6aea04c2bab1a53843a919",
-                        "file":  "Faithful 32x - 26.2.zip",
-                        "type":  "Resource Pack",
-                        "packs":  [
-                                      "Windows Voxy",
-                                      "Windows DH",
-                                      "Windows No LOD",
-                                      "Mac DH",
-                                      "Mac No LOD",
-                                      "Resource Library"
-                                  ],
-                        "id":  null,
-                        "name":  "Faithful 32x",
-                        "version":  "26.2-june-2026",
-                        "authors":  [
-                                        "Faithful-Resource-Pack"
-                                    ],
-                        "license":  [
-                                        "LicenseRef-Faithful-License"
-                                    ],
-                        "projectUrl":  "https://modrinth.com/resourcepack/faithful-32x",
-                        "issuesUrl":  "https://github.com/Faithful-Resource-Pack/Faithful-Java-32x/issues",
-                        "metadataSource":  "pack.mcmeta",
-                        "modrinthProjectId":  "w0TnApzs",
-                        "modrinthVersionId":  "jtTqgLTy",
-                        "sourceType":  "Modrinth SHA-512 match",
-                        "sourceVerified":  true,
-                        "licenseUrl":  "https://faithfulpack.net/license"
+                        "licenseUrl":  ""
                     },
                     {
                         "sha512":  "9c083d0649d5a66b007c74e161ec8e7094808b475dda3b22576088f3c5affb2cb929c4f7600b280f23a881a2580ddbc55c0504983814eaf572d1aa100687a103",
@@ -3240,6 +3155,37 @@
                         "licenseUrl":  ""
                     },
                     {
+                        "sha512":  "6b40e8bb2b43ccbde61232d045615100e17fee4b7fdcf124e013f4bece75a09b4fae7df74b09571df1b7b9324b2eccc7c1216458b9dc45810f226906b579b28e",
+                        "file":  "balm-fabric-26.2-26.2.0.5.jar",
+                        "type":  "Mod",
+                        "packs":  [
+                                      "Windows Voxy",
+                                      "Windows DH",
+                                      "Windows No LOD",
+                                      "Mac DH",
+                                      "Mac No LOD",
+                                      "Extreme Low End",
+                                      "Server"
+                                  ],
+                        "id":  "balm",
+                        "name":  "Balm",
+                        "version":  "26.2.0.5+fabric-26.2",
+                        "authors":  [
+                                        "BlayTheNinth"
+                                    ],
+                        "license":  [
+                                        "LicenseRef-All-Rights-Reserved"
+                                    ],
+                        "projectUrl":  "https://modrinth.com/mod/balm",
+                        "issuesUrl":  "https://github.com/TwelveIterations/Balm/issues",
+                        "metadataSource":  "fabric.mod.json",
+                        "modrinthProjectId":  "MBAkmtvl",
+                        "modrinthVersionId":  "ln6vafmE",
+                        "sourceType":  "Modrinth SHA-512 match",
+                        "sourceVerified":  true,
+                        "licenseUrl":  "https://mods.twelveiterations.com/permissions"
+                    },
+                    {
                         "sha512":  "f8f4c9a55ba2678e908352c17368272b26bbf159c78dd94bf799feb4d51f9c3cb8c201cd69ff8bf079f509acdb9ab9e19e9aaa4275e4ce4d881084ed8e6ebd77",
                         "file":  "ExplorersCompass-26.2-2.5.1-fabric.jar",
                         "type":  "Mod",
@@ -3271,30 +3217,32 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "b8516564b2ec47f34569843dc72d93d4053122693377193e3063b38602e760c8e1177239cb1a8d7b04d4c1e1b8476f66a13bac4d956fa9ad4666411476a78fdc",
-                        "file":  "language-reload-1.7.7+26.2.jar",
+                        "sha512":  "3e596e8cf29f28d2fb827fd8cd1272c7914334f55779f1dcc19df2651dba28a593e2b5178852a55e5114b02e93c276a3b09282d9c174e5e7191ea2c4fc5370f7",
+                        "file":  "NaturesCompass-26.2-2.5.1-fabric.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
                                       "Windows DH",
                                       "Windows No LOD",
                                       "Mac DH",
-                                      "Mac No LOD"
+                                      "Mac No LOD",
+                                      "Extreme Low End",
+                                      "Server"
                                   ],
-                        "id":  "languagereload",
-                        "name":  "Language Reload",
-                        "version":  "1.7.7+26.2",
+                        "id":  "naturescompass",
+                        "name":  "Nature\u0027s Compass",
+                        "version":  "26.2-2.5.1-fabric",
                         "authors":  [
-                                        "Jerozgen"
+                                        "ChaosTheDude"
                                     ],
                         "license":  [
-                                        "MIT"
+                                        "CC-BY-NC-SA-4.0"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/language-reload",
-                        "issuesUrl":  "https://github.com/Jerozgen/LanguageReload/issues",
+                        "projectUrl":  "https://modrinth.com/mod/natures-compass",
+                        "issuesUrl":  "https://github.com/MattCzyr/NaturesCompass/issues",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "uLbm7CG6",
-                        "modrinthVersionId":  "L79IylWm",
+                        "modrinthProjectId":  "fPetb5Kh",
+                        "modrinthVersionId":  "1X6iEfOy",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -3425,8 +3373,8 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "139dd09e04cc66fe4745264ddfbe3249be6e956326c931eb9707f9a640bbc011a4f1fd5684d04ca90e1b473be55772b0279e5c2f935c2f2e85d054e2ab0a6923",
-                        "file":  "NoChatReports-FABRIC-26.2-v2.20.1.jar",
+                        "sha512":  "2dbd97ca7013c6e88a475a55b828c50234c6060cc7a20843c9aadecdd561e1a690d7d0ba0ddb9dce30f8ebfdc02e113ffce7c9067ab63cf5c780a2e1d4139aa7",
+                        "file":  "reeses-sodium-options-fabric-2.2.3+mc26.2.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
@@ -3434,22 +3382,22 @@
                                       "Windows No LOD",
                                       "Mac DH",
                                       "Mac No LOD",
-                                      "Server"
+                                      "Extreme Low End"
                                   ],
-                        "id":  "nochatreports",
-                        "name":  "No Chat Reports",
-                        "version":  "Fabric-26.2-v2.20.1",
+                        "id":  "reeses-sodium-options",
+                        "name":  "Reese\u0027s Sodium Options",
+                        "version":  "mc26.2-2.2.3+fabric",
                         "authors":  [
-                                        "Aizistral"
+                                        "FlashyReese"
                                     ],
                         "license":  [
-                                        "WTFPL"
+                                        "MIT"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/no-chat-reports",
-                        "issuesUrl":  "https://github.com/Aizistral-Studios/No-Chat-Reports/issues",
+                        "projectUrl":  "https://modrinth.com/mod/reeses-sodium-options",
+                        "issuesUrl":  "https://github.com/FlashyReese/reeses-sodium-options/issues",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "qQyHxfxd",
-                        "modrinthVersionId":  "uiY9tUaj",
+                        "modrinthProjectId":  "Bh37bMuy",
+                        "modrinthVersionId":  "PH4SPorH",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -3486,8 +3434,8 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "ddf31d8fe239f66760632606221a9ea55d31907a9f7f8667331929cad348457ec2199cb90d410ee1a06e36bafc01a3bf152a06fd3c9b9e46f50841240875832b",
-                        "file":  "appleskin-fabric-mc26.2-3.0.10.jar",
+                        "sha512":  "139dd09e04cc66fe4745264ddfbe3249be6e956326c931eb9707f9a640bbc011a4f1fd5684d04ca90e1b473be55772b0279e5c2f935c2f2e85d054e2ab0a6923",
+                        "file":  "NoChatReports-FABRIC-26.2-v2.20.1.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
@@ -3497,20 +3445,20 @@
                                       "Mac No LOD",
                                       "Server"
                                   ],
-                        "id":  "appleskin",
-                        "name":  "AppleSkin",
-                        "version":  "3.0.10+mc26.2",
+                        "id":  "nochatreports",
+                        "name":  "No Chat Reports",
+                        "version":  "Fabric-26.2-v2.20.1",
                         "authors":  [
-                                        "squeek502"
+                                        "Aizistral"
                                     ],
                         "license":  [
-                                        "Unlicense"
+                                        "WTFPL"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/appleskin",
-                        "issuesUrl":  "https://github.com/squeek502/AppleSkin/issues",
+                        "projectUrl":  "https://modrinth.com/mod/no-chat-reports",
+                        "issuesUrl":  "https://github.com/Aizistral-Studios/No-Chat-Reports/issues",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "EsAfCjCV",
-                        "modrinthVersionId":  "uo5bAN1Y",
+                        "modrinthProjectId":  "qQyHxfxd",
+                        "modrinthVersionId":  "uiY9tUaj",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -3545,121 +3493,33 @@
                         "licenseUrl":  "https://github.com/UltimatChamp/BetterGrassify/raw/main/LICENSE"
                     },
                     {
-                        "sha512":  "2dbd97ca7013c6e88a475a55b828c50234c6060cc7a20843c9aadecdd561e1a690d7d0ba0ddb9dce30f8ebfdc02e113ffce7c9067ab63cf5c780a2e1d4139aa7",
-                        "file":  "reeses-sodium-options-fabric-2.2.3+mc26.2.jar",
+                        "sha512":  "3bd9c7093f2589fdbbc521d67e98f160ccd6d5fc538a2d83146039f944c8ee648f1057d1c3c3cb44be1d759e5eab7b062dfc934443b34489f9695dff83c08511",
+                        "file":  "DistantHorizons-3.1.2-b-26.2-fabric-neoforge.jar",
                         "type":  "Mod",
                         "packs":  [
-                                      "Windows Voxy",
                                       "Windows DH",
-                                      "Windows No LOD",
-                                      "Mac DH",
-                                      "Mac No LOD",
-                                      "Extreme Low End"
+                                      "Mac DH"
                                   ],
-                        "id":  "reeses-sodium-options",
-                        "name":  "Reese\u0027s Sodium Options",
-                        "version":  "mc26.2-2.2.3+fabric",
+                        "id":  "distanthorizons",
+                        "name":  "Distant Horizons",
+                        "version":  "3.1.2-b-26.2",
                         "authors":  [
-                                        "FlashyReese"
+                                        "James Seibel",
+                                        "Leonardo Amato",
+                                        "Cola",
+                                        "coolGi",
+                                        "Ran",
+                                        "Leetom",
+                                        "pshsh"
                                     ],
                         "license":  [
-                                        "MIT"
+                                        "LGPL-3.0-only"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/reeses-sodium-options",
-                        "issuesUrl":  "https://github.com/FlashyReese/reeses-sodium-options/issues",
+                        "projectUrl":  "https://modrinth.com/mod/distanthorizons",
+                        "issuesUrl":  "https://gitlab.com/distant-horizons-team/distant-horizons/-/issues",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "Bh37bMuy",
-                        "modrinthVersionId":  "PH4SPorH",
-                        "sourceType":  "Modrinth SHA-512 match",
-                        "sourceVerified":  true,
-                        "licenseUrl":  ""
-                    },
-                    {
-                        "sha512":  "d7e52db2c4214bd13a5e8ef9e7e6e84312d991847525fa9827cd0fac9385e32e7ab5bdc9062a3daa68c901629bd7ad390d3713139191734bb2e753fef12fbe1c",
-                        "file":  "moreculling-fabric-26.2-1.8.0.jar",
-                        "type":  "Mod",
-                        "packs":  [
-                                      "Windows Voxy",
-                                      "Windows DH",
-                                      "Windows No LOD",
-                                      "Mac DH",
-                                      "Mac No LOD",
-                                      "Extreme Low End"
-                                  ],
-                        "id":  "moreculling",
-                        "name":  "More Culling",
-                        "version":  "1.8.0",
-                        "authors":  [
-                                        "FX - PR0CESS, 1Foxy2"
-                                    ],
-                        "license":  [
-                                        "GPL-3.0-only"
-                                    ],
-                        "projectUrl":  "https://modrinth.com/mod/moreculling",
-                        "issuesUrl":  "https://github.com/fxmorin/moreculling/issues",
-                        "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "51shyZVL",
-                        "modrinthVersionId":  "SYFaYeMK",
-                        "sourceType":  "Modrinth SHA-512 match",
-                        "sourceVerified":  true,
-                        "licenseUrl":  ""
-                    },
-                    {
-                        "sha512":  "de54631a28007dd26a8be39abb0a590c8358626b3f59b5b97486dc184db2d7e1c6a69f5e3aa8d347e9e39ac2145271a5bf7740dee63566be35844445fe51cd87",
-                        "file":  "friendsandfoes-fabric-4.0.26+mc26.2.jar",
-                        "type":  "Mod",
-                        "packs":  [
-                                      "Windows Voxy",
-                                      "Windows DH",
-                                      "Windows No LOD",
-                                      "Mac DH",
-                                      "Mac No LOD",
-                                      "Extreme Low End",
-                                      "Server"
-                                  ],
-                        "id":  "friendsandfoes",
-                        "name":  "Friends\u0026Foes (Fabric/Quilt)",
-                        "version":  "fabric-4.0.26+mc26.2",
-                        "authors":  [
-                                        "Faboslav"
-                                    ],
-                        "license":  [
-                                        "CC-BY-NC-ND-4.0"
-                                    ],
-                        "projectUrl":  "https://modrinth.com/mod/friends-and-foes",
-                        "issuesUrl":  "https://github.com/Faboslav/friends-and-foes/issues",
-                        "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "POQ2i9zu",
-                        "modrinthVersionId":  "BtDb4Lcu",
-                        "sourceType":  "Modrinth SHA-512 match",
-                        "sourceVerified":  true,
-                        "licenseUrl":  ""
-                    },
-                    {
-                        "sha512":  "593e7d3b30d8f76cc6c24e19b6ea3b0d22d8c558b9989275bdc4a8cd6dd8bd1bcc4fd68080aede1fa7a7c0522d471af3457fd05d86aaa4308bd046aad24aae4b",
-                        "file":  "paginatedadvancements-2.8.0+26.2.jar",
-                        "type":  "Mod",
-                        "packs":  [
-                                      "Windows Voxy",
-                                      "Windows DH",
-                                      "Windows No LOD",
-                                      "Mac DH",
-                                      "Mac No LOD"
-                                  ],
-                        "id":  "paginatedadvancements",
-                        "name":  "Paginated Advancements \u0026 Custom Frames",
-                        "version":  "2.8.0+26.2",
-                        "authors":  [
-                                        "DaFuqs"
-                                    ],
-                        "license":  [
-                                        "MIT"
-                                    ],
-                        "projectUrl":  "https://modrinth.com/mod/paginatedadvancements",
-                        "issuesUrl":  "https://github.com/DaFuqs/PaginatedAdvancements/issues",
-                        "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "pJogNFap",
-                        "modrinthVersionId":  "Ra3zz0eG",
+                        "modrinthProjectId":  "uCdwusMi",
+                        "modrinthVersionId":  "IguX0jEa",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -3699,8 +3559,38 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "ccbcf3f6684512b0538defd2498b3356ef210f3db61278101c6cf6021e34d8d91e00efcab1f4ec4f726ae80c5776727959d23d19ea52d73c224340905076017c",
-                        "file":  "waystones-fabric-26.2-26.2.0.7.jar",
+                        "sha512":  "d7e52db2c4214bd13a5e8ef9e7e6e84312d991847525fa9827cd0fac9385e32e7ab5bdc9062a3daa68c901629bd7ad390d3713139191734bb2e753fef12fbe1c",
+                        "file":  "moreculling-fabric-26.2-1.8.0.jar",
+                        "type":  "Mod",
+                        "packs":  [
+                                      "Windows Voxy",
+                                      "Windows DH",
+                                      "Windows No LOD",
+                                      "Mac DH",
+                                      "Mac No LOD",
+                                      "Extreme Low End"
+                                  ],
+                        "id":  "moreculling",
+                        "name":  "More Culling",
+                        "version":  "1.8.0",
+                        "authors":  [
+                                        "FX - PR0CESS, 1Foxy2"
+                                    ],
+                        "license":  [
+                                        "GPL-3.0-only"
+                                    ],
+                        "projectUrl":  "https://modrinth.com/mod/moreculling",
+                        "issuesUrl":  "https://github.com/fxmorin/moreculling/issues",
+                        "metadataSource":  "fabric.mod.json",
+                        "modrinthProjectId":  "51shyZVL",
+                        "modrinthVersionId":  "SYFaYeMK",
+                        "sourceType":  "Modrinth SHA-512 match",
+                        "sourceVerified":  true,
+                        "licenseUrl":  ""
+                    },
+                    {
+                        "sha512":  "04a435e483d8c0204a49769cc749b1ec4d34a005b4a266cf0b3a62f6cc3d7c28bbbf50f5e2b684ab70b617d98e2bbe9e1e98e0a237564c572f1d6391afa66d5e",
+                        "file":  "dungeons-and-taverns-5.3.0.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
@@ -3711,85 +3601,55 @@
                                       "Extreme Low End",
                                       "Server"
                                   ],
-                        "id":  "waystones",
-                        "name":  "Waystones",
-                        "version":  "26.2.0.7+fabric-26.2",
+                        "id":  "mr_dungeons_andtaverns",
+                        "name":  "Dungeons and Taverns",
+                        "version":  "5.3.0+mod",
                         "authors":  [
-                                        "BlayTheNinth"
+                                        "Konci",
+                                        "Whity",
+                                        "MiziraGamez",
+                                        "NovaWostra"
                                     ],
                         "license":  [
                                         "LicenseRef-All-Rights-Reserved"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/waystones",
-                        "issuesUrl":  "https://github.com/TwelveIterations/Waystones/issues",
+                        "projectUrl":  "https://modrinth.com/mod/dungeons-and-taverns",
+                        "issuesUrl":  "",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "LOpKHB2A",
-                        "modrinthVersionId":  "grpTenJz",
-                        "sourceType":  "Modrinth SHA-512 match",
-                        "sourceVerified":  true,
-                        "licenseUrl":  "https://mods.twelveiterations.com/permissions"
-                    },
-                    {
-                        "sha512":  "3bd9c7093f2589fdbbc521d67e98f160ccd6d5fc538a2d83146039f944c8ee648f1057d1c3c3cb44be1d759e5eab7b062dfc934443b34489f9695dff83c08511",
-                        "file":  "DistantHorizons-3.1.2-b-26.2-fabric-neoforge.jar",
-                        "type":  "Mod",
-                        "packs":  [
-                                      "Windows DH",
-                                      "Mac DH"
-                                  ],
-                        "id":  "distanthorizons",
-                        "name":  "Distant Horizons",
-                        "version":  "3.1.2-b-26.2",
-                        "authors":  [
-                                        "James Seibel",
-                                        "Leonardo Amato",
-                                        "Cola",
-                                        "coolGi",
-                                        "Ran",
-                                        "Leetom",
-                                        "pshsh"
-                                    ],
-                        "license":  [
-                                        "LGPL-3.0-only"
-                                    ],
-                        "projectUrl":  "https://modrinth.com/mod/distanthorizons",
-                        "issuesUrl":  "https://gitlab.com/distant-horizons-team/distant-horizons/-/issues",
-                        "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "uCdwusMi",
-                        "modrinthVersionId":  "IguX0jEa",
+                        "modrinthProjectId":  "tpehi7ww",
+                        "modrinthVersionId":  "kejPgknA",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "33b1518a340230ca4b2778c71817bdc1a42c8a40ebe73ea3b6d204d2fb49f37fc1a43febdc2763ec6f010fadc8b3667f9ff96e76bfdd3691274c1b08270d1ce5",
-                        "file":  "Faithful 32x AppleSkin - 26.2.zip",
-                        "type":  "Resource Pack",
+                        "sha512":  "593e7d3b30d8f76cc6c24e19b6ea3b0d22d8c558b9989275bdc4a8cd6dd8bd1bcc4fd68080aede1fa7a7c0522d471af3457fd05d86aaa4308bd046aad24aae4b",
+                        "file":  "paginatedadvancements-2.8.0+26.2.jar",
+                        "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
                                       "Windows DH",
                                       "Windows No LOD",
                                       "Mac DH",
-                                      "Mac No LOD",
-                                      "Resource Library"
+                                      "Mac No LOD"
                                   ],
-                        "id":  null,
-                        "name":  "Faithful 32x AppleSkin Addon",
-                        "version":  "26.2-July-2026",
+                        "id":  "paginatedadvancements",
+                        "name":  "Paginated Advancements \u0026 Custom Frames",
+                        "version":  "2.8.0+26.2",
                         "authors":  [
-                                        "Wery_cz"
+                                        "DaFuqs"
                                     ],
                         "license":  [
-                                        "CC-BY-ND-4.0"
+                                        "MIT"
                                     ],
-                        "projectUrl":  "https://modrinth.com/resourcepack/faithful-32x-appleskin-addon",
-                        "issuesUrl":  "",
-                        "metadataSource":  "unreadable: Invalid JSON primitive: .",
-                        "modrinthProjectId":  "cPFBIJcb",
-                        "modrinthVersionId":  "nfo2ZpH9",
+                        "projectUrl":  "https://modrinth.com/mod/paginatedadvancements",
+                        "issuesUrl":  "https://github.com/DaFuqs/PaginatedAdvancements/issues",
+                        "metadataSource":  "fabric.mod.json",
+                        "modrinthProjectId":  "pJogNFap",
+                        "modrinthVersionId":  "Ra3zz0eG",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
-                        "licenseUrl":  "https://creativecommons.org/licenses/by-nd/4.0/"
+                        "licenseUrl":  ""
                     },
                     {
                         "sha512":  "6642599a83e3238515677d1546df55b75e2cd09ab21dbc36bb7b3e73eb0af49e61e3de32c7a8648200cb04557f1886350b1a4a62d56eabaac2ec302fda72a5e0",
@@ -3847,6 +3707,98 @@
                         "metadataSource":  "fabric.mod.json",
                         "modrinthProjectId":  "ohNO6lps",
                         "modrinthVersionId":  "rSd3GiG8",
+                        "sourceType":  "Modrinth SHA-512 match",
+                        "sourceVerified":  true,
+                        "licenseUrl":  ""
+                    },
+                    {
+                        "sha512":  "de54631a28007dd26a8be39abb0a590c8358626b3f59b5b97486dc184db2d7e1c6a69f5e3aa8d347e9e39ac2145271a5bf7740dee63566be35844445fe51cd87",
+                        "file":  "friendsandfoes-fabric-4.0.26+mc26.2.jar",
+                        "type":  "Mod",
+                        "packs":  [
+                                      "Windows Voxy",
+                                      "Windows DH",
+                                      "Windows No LOD",
+                                      "Mac DH",
+                                      "Mac No LOD",
+                                      "Extreme Low End",
+                                      "Server"
+                                  ],
+                        "id":  "friendsandfoes",
+                        "name":  "Friends\u0026Foes (Fabric/Quilt)",
+                        "version":  "fabric-4.0.26+mc26.2",
+                        "authors":  [
+                                        "Faboslav"
+                                    ],
+                        "license":  [
+                                        "CC-BY-NC-ND-4.0"
+                                    ],
+                        "projectUrl":  "https://modrinth.com/mod/friends-and-foes",
+                        "issuesUrl":  "https://github.com/Faboslav/friends-and-foes/issues",
+                        "metadataSource":  "fabric.mod.json",
+                        "modrinthProjectId":  "POQ2i9zu",
+                        "modrinthVersionId":  "BtDb4Lcu",
+                        "sourceType":  "Modrinth SHA-512 match",
+                        "sourceVerified":  true,
+                        "licenseUrl":  ""
+                    },
+                    {
+                        "sha512":  "ccbcf3f6684512b0538defd2498b3356ef210f3db61278101c6cf6021e34d8d91e00efcab1f4ec4f726ae80c5776727959d23d19ea52d73c224340905076017c",
+                        "file":  "waystones-fabric-26.2-26.2.0.7.jar",
+                        "type":  "Mod",
+                        "packs":  [
+                                      "Windows Voxy",
+                                      "Windows DH",
+                                      "Windows No LOD",
+                                      "Mac DH",
+                                      "Mac No LOD",
+                                      "Extreme Low End",
+                                      "Server"
+                                  ],
+                        "id":  "waystones",
+                        "name":  "Waystones",
+                        "version":  "26.2.0.7+fabric-26.2",
+                        "authors":  [
+                                        "BlayTheNinth"
+                                    ],
+                        "license":  [
+                                        "LicenseRef-All-Rights-Reserved"
+                                    ],
+                        "projectUrl":  "https://modrinth.com/mod/waystones",
+                        "issuesUrl":  "https://github.com/TwelveIterations/Waystones/issues",
+                        "metadataSource":  "fabric.mod.json",
+                        "modrinthProjectId":  "LOpKHB2A",
+                        "modrinthVersionId":  "grpTenJz",
+                        "sourceType":  "Modrinth SHA-512 match",
+                        "sourceVerified":  true,
+                        "licenseUrl":  "https://mods.twelveiterations.com/permissions"
+                    },
+                    {
+                        "sha512":  "ddf31d8fe239f66760632606221a9ea55d31907a9f7f8667331929cad348457ec2199cb90d410ee1a06e36bafc01a3bf152a06fd3c9b9e46f50841240875832b",
+                        "file":  "appleskin-fabric-mc26.2-3.0.10.jar",
+                        "type":  "Mod",
+                        "packs":  [
+                                      "Windows Voxy",
+                                      "Windows DH",
+                                      "Windows No LOD",
+                                      "Mac DH",
+                                      "Mac No LOD",
+                                      "Server"
+                                  ],
+                        "id":  "appleskin",
+                        "name":  "AppleSkin",
+                        "version":  "3.0.10+mc26.2",
+                        "authors":  [
+                                        "squeek502"
+                                    ],
+                        "license":  [
+                                        "Unlicense"
+                                    ],
+                        "projectUrl":  "https://modrinth.com/mod/appleskin",
+                        "issuesUrl":  "https://github.com/squeek502/AppleSkin/issues",
+                        "metadataSource":  "fabric.mod.json",
+                        "modrinthProjectId":  "EsAfCjCV",
+                        "modrinthVersionId":  "uo5bAN1Y",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -3970,8 +3922,8 @@
                         "licenseUrl":  "https://github.com/Stardust-Labs-MC/license/blob/main/license.txt"
                     },
                     {
-                        "sha512":  "1c3749d12cf879453e786577e1a7f414ec97e743195b10be7d215e81953b525bc2c1ed0bc9c85a5b63d3cce99e5067650bb5bb3572554b6919764d1b892deca0",
-                        "file":  "supermartijn642corelib-1.1.22-fabric-mc26.2.jar",
+                        "sha512":  "701619d1989432674b7ffc7642e045c222a29c7c42528721107e09b330e6179e5872a920bd00c544809472209d8c1c4259bab28b1cd29b80a9d518bc61f8efa9",
+                        "file":  "mcw-paths-1.1.1-mc26.2fabric.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
@@ -3982,20 +3934,20 @@
                                       "Extreme Low End",
                                       "Server"
                                   ],
-                        "id":  "supermartijn642corelib",
-                        "name":  "SuperMartijn642\u0027s Core Lib",
-                        "version":  "1.1.22-fabric-mc26.2",
+                        "id":  "mcwpaths",
+                        "name":  "Macaw\u0027s Paths and Pavings",
+                        "version":  "1.1.1",
                         "authors":  [
-                                        "SuperMartijn642"
+                                        "Sketch Macaw, Peachy Macaw"
                                     ],
                         "license":  [
-                                        "LicenseRef-All-Rights-Reserved"
+                                        "MIT"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/supermartijn642s-core-lib",
-                        "issuesUrl":  "https://github.com/SuperMartijn642/SuperMartijn642sCoreLib/issues",
+                        "projectUrl":  "https://modrinth.com/mod/macaws-paths-and-pavings",
+                        "issuesUrl":  "https://github.com/sketchmacaw/MacawsModsIssues/issues",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "rOUBggPv",
-                        "modrinthVersionId":  "HPrF0CRL",
+                        "modrinthProjectId":  "VRLhWB91",
+                        "modrinthVersionId":  "LLYA3vec",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -4032,8 +3984,8 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "3e596e8cf29f28d2fb827fd8cd1272c7914334f55779f1dcc19df2651dba28a593e2b5178852a55e5114b02e93c276a3b09282d9c174e5e7191ea2c4fc5370f7",
-                        "file":  "NaturesCompass-26.2-2.5.1-fabric.jar",
+                        "sha512":  "1c3749d12cf879453e786577e1a7f414ec97e743195b10be7d215e81953b525bc2c1ed0bc9c85a5b63d3cce99e5067650bb5bb3572554b6919764d1b892deca0",
+                        "file":  "supermartijn642corelib-1.1.22-fabric-mc26.2.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
@@ -4044,20 +3996,20 @@
                                       "Extreme Low End",
                                       "Server"
                                   ],
-                        "id":  "naturescompass",
-                        "name":  "Nature\u0027s Compass",
-                        "version":  "26.2-2.5.1-fabric",
+                        "id":  "supermartijn642corelib",
+                        "name":  "SuperMartijn642\u0027s Core Lib",
+                        "version":  "1.1.22-fabric-mc26.2",
                         "authors":  [
-                                        "ChaosTheDude"
+                                        "SuperMartijn642"
                                     ],
                         "license":  [
-                                        "CC-BY-NC-SA-4.0"
+                                        "LicenseRef-All-Rights-Reserved"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/natures-compass",
-                        "issuesUrl":  "https://github.com/MattCzyr/NaturesCompass/issues",
+                        "projectUrl":  "https://modrinth.com/mod/supermartijn642s-core-lib",
+                        "issuesUrl":  "https://github.com/SuperMartijn642/SuperMartijn642sCoreLib/issues",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "fPetb5Kh",
-                        "modrinthVersionId":  "1X6iEfOy",
+                        "modrinthProjectId":  "rOUBggPv",
+                        "modrinthVersionId":  "HPrF0CRL",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
@@ -4092,35 +4044,33 @@
                         "licenseUrl":  ""
                     },
                     {
-                        "sha512":  "701619d1989432674b7ffc7642e045c222a29c7c42528721107e09b330e6179e5872a920bd00c544809472209d8c1c4259bab28b1cd29b80a9d518bc61f8efa9",
-                        "file":  "mcw-paths-1.1.1-mc26.2fabric.jar",
+                        "sha512":  "b63b07080cb6ff69f52afb1e33fc1664b25b04bcda54b482ca76d50851de76491238b4e6e4adaca5ed478dc67ea26ade69908aea268a75aae9d3f62d3cff19eb",
+                        "file":  "cwb-4.1.0+26.2.jar",
                         "type":  "Mod",
                         "packs":  [
                                       "Windows Voxy",
                                       "Windows DH",
                                       "Windows No LOD",
                                       "Mac DH",
-                                      "Mac No LOD",
-                                      "Extreme Low End",
-                                      "Server"
+                                      "Mac No LOD"
                                   ],
-                        "id":  "mcwpaths",
-                        "name":  "Macaw\u0027s Paths and Pavings",
-                        "version":  "1.1.1",
+                        "id":  "cwb",
+                        "name":  "Cubes Without Borders",
+                        "version":  "4.1.0+26.2",
                         "authors":  [
-                                        "Sketch Macaw, Peachy Macaw"
+                                        "Kira-NT"
                                     ],
                         "license":  [
                                         "MIT"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/macaws-paths-and-pavings",
-                        "issuesUrl":  "https://github.com/sketchmacaw/MacawsModsIssues/issues",
+                        "projectUrl":  "https://modrinth.com/mod/cubes-without-borders",
+                        "issuesUrl":  "https://github.com/Kira-NT/cubes-without-borders/issues/new/choose",
                         "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "VRLhWB91",
-                        "modrinthVersionId":  "LLYA3vec",
+                        "modrinthProjectId":  "ETlrkaYF",
+                        "modrinthVersionId":  "Zn8JbMkF",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
-                        "licenseUrl":  ""
+                        "licenseUrl":  "https://github.com/Kira-NT/cubes-without-borders/blob/main/LICENSE.md"
                     },
                     {
                         "sha512":  "ab0f4828d98b99f045a415e164d6471fe47bbc5d4f01ca1442c0144be9f89e35db4e6b30ff847ec919409e040d63904f54f3f113898a9155fd32e579f46d776a",
@@ -4250,6 +4200,66 @@
                         "licenseUrl":  ""
                     },
                     {
+                        "sha512":  "41999eeff94c6a69810d65571bb09cb49a6c29a1e134f49fe31fe826e41f7a6cf7997350fb0d175270fe10c81e5e6433738562f8a22a57725a6f76544414e396",
+                        "file":  "debugify-26.2.0.0.jar",
+                        "type":  "Mod",
+                        "packs":  [
+                                      "Windows Voxy",
+                                      "Windows DH",
+                                      "Windows No LOD",
+                                      "Mac DH",
+                                      "Mac No LOD",
+                                      "Extreme Low End",
+                                      "Server"
+                                  ],
+                        "id":  "debugify",
+                        "name":  "Debugify",
+                        "version":  "26.2.0.0",
+                        "authors":  [
+                                        "isXander"
+                                    ],
+                        "license":  [
+                                        "LGPL-3.0-only"
+                                    ],
+                        "projectUrl":  "https://modrinth.com/mod/debugify",
+                        "issuesUrl":  "https://github.com/isXander/Debugify/issues",
+                        "metadataSource":  "fabric.mod.json",
+                        "modrinthProjectId":  "QwxR6Gcd",
+                        "modrinthVersionId":  "V2I3yC58",
+                        "sourceType":  "Modrinth SHA-512 match",
+                        "sourceVerified":  true,
+                        "licenseUrl":  ""
+                    },
+                    {
+                        "sha512":  "a3540ad60af1ee2f274057f306d52a00d7bff2b37922a52db62e821e0e6d69b3fd73a13616dda343e21c75e60c53cda5bf314f8c58b5354285b70bd8d6c91cb6",
+                        "file":  "rrls-5.2.7+mc.26.2.jar",
+                        "type":  "Mod",
+                        "packs":  [
+                                      "Windows Voxy",
+                                      "Windows DH",
+                                      "Windows No LOD",
+                                      "Mac DH",
+                                      "Mac No LOD"
+                                  ],
+                        "id":  "rrls",
+                        "name":  "Remove Reloading Screen",
+                        "version":  "5.2.7+mc26.2",
+                        "authors":  [
+                                        "dima_dencep"
+                                    ],
+                        "license":  [
+                                        "OSL-3.0"
+                                    ],
+                        "projectUrl":  "https://modrinth.com/mod/rrls",
+                        "issuesUrl":  "https://github.com/dima-dencep/rrls/issues",
+                        "metadataSource":  "fabric.mod.json",
+                        "modrinthProjectId":  "ZP7xHXtw",
+                        "modrinthVersionId":  "MDNaKmgK",
+                        "sourceType":  "Modrinth SHA-512 match",
+                        "sourceVerified":  true,
+                        "licenseUrl":  "https://github.com/dima-dencep/rrls/blob/HEAD/LICENSE"
+                    },
+                    {
                         "sha512":  "4178a15f32f6ed3d59a7eb2222a8e3f539efd7b54d8ffb790cbf1dfe5c54c6ce6ec33220e148424109c6360c4c6f081b9fbebfe74745fe3c8f05619a06ccb9ec",
                         "file":  "Structory_26.2_v1.3.7.jar",
                         "type":  "Mod",
@@ -4283,121 +4293,31 @@
                         "licenseUrl":  "https://github.com/Stardust-Labs-MC/license/blob/main/license.txt"
                     },
                     {
-                        "sha512":  "a3540ad60af1ee2f274057f306d52a00d7bff2b37922a52db62e821e0e6d69b3fd73a13616dda343e21c75e60c53cda5bf314f8c58b5354285b70bd8d6c91cb6",
-                        "file":  "rrls-5.2.7+mc.26.2.jar",
-                        "type":  "Mod",
-                        "packs":  [
-                                      "Windows Voxy",
-                                      "Windows DH",
-                                      "Windows No LOD",
-                                      "Mac DH",
-                                      "Mac No LOD"
-                                  ],
-                        "id":  "rrls",
-                        "name":  "Remove Reloading Screen",
-                        "version":  "5.2.7+mc26.2",
-                        "authors":  [
-                                        "dima_dencep"
-                                    ],
-                        "license":  [
-                                        "OSL-3.0"
-                                    ],
-                        "projectUrl":  "https://modrinth.com/mod/rrls",
-                        "issuesUrl":  "https://github.com/dima-dencep/rrls/issues",
-                        "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "ZP7xHXtw",
-                        "modrinthVersionId":  "MDNaKmgK",
-                        "sourceType":  "Modrinth SHA-512 match",
-                        "sourceVerified":  true,
-                        "licenseUrl":  "https://github.com/dima-dencep/rrls/blob/HEAD/LICENSE"
-                    },
-                    {
-                        "sha512":  "b63b07080cb6ff69f52afb1e33fc1664b25b04bcda54b482ca76d50851de76491238b4e6e4adaca5ed478dc67ea26ade69908aea268a75aae9d3f62d3cff19eb",
-                        "file":  "cwb-4.1.0+26.2.jar",
-                        "type":  "Mod",
-                        "packs":  [
-                                      "Windows Voxy",
-                                      "Windows DH",
-                                      "Windows No LOD",
-                                      "Mac DH",
-                                      "Mac No LOD"
-                                  ],
-                        "id":  "cwb",
-                        "name":  "Cubes Without Borders",
-                        "version":  "4.1.0+26.2",
-                        "authors":  [
-                                        "Kira-NT"
-                                    ],
-                        "license":  [
-                                        "MIT"
-                                    ],
-                        "projectUrl":  "https://modrinth.com/mod/cubes-without-borders",
-                        "issuesUrl":  "https://github.com/Kira-NT/cubes-without-borders/issues/new/choose",
-                        "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "ETlrkaYF",
-                        "modrinthVersionId":  "Zn8JbMkF",
-                        "sourceType":  "Modrinth SHA-512 match",
-                        "sourceVerified":  true,
-                        "licenseUrl":  "https://github.com/Kira-NT/cubes-without-borders/blob/main/LICENSE.md"
-                    },
-                    {
-                        "sha512":  "e1d8c3aeb12c77eb7367881a3e942275b396a15ffe71e17218854630d9b74db2d0b620a51ee34a497506c9ada53e83d1f6750f2b4a126de94d2ddce6db1302a5",
-                        "file":  "mcw-bridges-3.1.2-mc26.2fabric.jar",
-                        "type":  "Mod",
+                        "sha512":  "acd2d2123023178340fcf97f3f2621570207da178ddf21f54a3be89e97c365941bdacbc8af8d95a6df730c4c0b8f51cc5bd752aeffe8dd4e56d49b436e22b4b7",
+                        "file":  "Low Fire.zip",
+                        "type":  "Resource Pack",
                         "packs":  [
                                       "Windows Voxy",
                                       "Windows DH",
                                       "Windows No LOD",
                                       "Mac DH",
                                       "Mac No LOD",
-                                      "Extreme Low End",
-                                      "Server"
+                                      "Resource Library"
                                   ],
-                        "id":  "mcwbridges",
-                        "name":  "Macaw\u0027s Bridges",
-                        "version":  "3.1.2",
+                        "id":  null,
+                        "name":  "Low Fire",
+                        "version":  "1.3.0",
                         "authors":  [
-                                        "SketchMacaw"
+                                        "Oculie"
                                     ],
                         "license":  [
                                         "LicenseRef-All-Rights-Reserved"
                                     ],
-                        "projectUrl":  "https://modrinth.com/mod/macaws-bridges",
-                        "issuesUrl":  "https://github.com/sketchmacaw/MacawsModsIssues/issues",
-                        "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "GURcjz8O",
-                        "modrinthVersionId":  "O570Yvic",
-                        "sourceType":  "Modrinth SHA-512 match",
-                        "sourceVerified":  true,
-                        "licenseUrl":  ""
-                    },
-                    {
-                        "sha512":  "41999eeff94c6a69810d65571bb09cb49a6c29a1e134f49fe31fe826e41f7a6cf7997350fb0d175270fe10c81e5e6433738562f8a22a57725a6f76544414e396",
-                        "file":  "debugify-26.2.0.0.jar",
-                        "type":  "Mod",
-                        "packs":  [
-                                      "Windows Voxy",
-                                      "Windows DH",
-                                      "Windows No LOD",
-                                      "Mac DH",
-                                      "Mac No LOD",
-                                      "Extreme Low End",
-                                      "Server"
-                                  ],
-                        "id":  "debugify",
-                        "name":  "Debugify",
-                        "version":  "26.2.0.0",
-                        "authors":  [
-                                        "isXander"
-                                    ],
-                        "license":  [
-                                        "LGPL-3.0-only"
-                                    ],
-                        "projectUrl":  "https://modrinth.com/mod/debugify",
-                        "issuesUrl":  "https://github.com/isXander/Debugify/issues",
-                        "metadataSource":  "fabric.mod.json",
-                        "modrinthProjectId":  "QwxR6Gcd",
-                        "modrinthVersionId":  "V2I3yC58",
+                        "projectUrl":  "https://modrinth.com/resourcepack/low-fire-pack",
+                        "issuesUrl":  "",
+                        "metadataSource":  "pack.mcmeta",
+                        "modrinthProjectId":  "1jZGHJ05",
+                        "modrinthVersionId":  "RP4ozzMC",
                         "sourceType":  "Modrinth SHA-512 match",
                         "sourceVerified":  true,
                         "licenseUrl":  ""
