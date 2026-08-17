@@ -9,6 +9,14 @@ This guide explains how to install the Fabric 26.2 client pack in its own game d
 
 The release contains all six client choices, the active server pack, optional shader and resource-pack libraries, and `SHA256SUMS.txt` for download verification. Friends must be invited to this private GitHub repository before the release page will open for them.
 
+## Credits And Ownership
+
+This is a community modpack assembled, configured, tested, and documented by Dylan Weaver (Minecraft username: Stixity). The mods, libraries, shaders, resource packs, Fabric Loader, and Minecraft remain the work and property of their respective creators; Dylan does not claim authorship of those projects.
+
+Dylan's only original mod component is `indium-server-dummy.jar`, a metadata-only dedicated-server compatibility shim with no executable classes or third-party code. It helps the coordinated server/client distribution support Voxy Server for Dylan's Voxy client and Distant Horizons clients for friends; Voxy, Voxy Server, Distant Horizons, and Indium are still independent third-party projects.
+
+See the [complete third-party credits and license ledger](CREDITS.md) for every distributed file, including its creator, version, source, license, and the packs that contain it. Credits supplement rather than replace each project's license terms.
+
 ## Server
 
 - **Minecraft:** Java Edition 26.2
@@ -173,4 +181,3 @@ The server host uses FastBack snapshot backups stored on a separate physical dri
 | LOD terrain ignores the shader | Use Photon on Windows Voxy/DH, or disable the shader |
 
 See [Troubleshooting](docs/TROUBLESHOOTING.md) for detailed checks.
-
