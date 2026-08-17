@@ -3,7 +3,11 @@
 This guide explains how to install the Fabric 26.2 client pack in its own game directory, set a sensible memory limit, and join the private Modded Survival server.
 
 > [!IMPORTANT]
-> Get the client ZIP directly from Dylan. This repository contains instructions only. It does not contain the Minecraft world, account files, server backups, or redistributed mod JARs.
+> Download exactly one client ZIP from the [Fabric 26.2 Stable release](https://github.com/Dweaver425/modded-survival-26-2-setup/releases/tag/v26.2-stable). Expand **Assets** and ignore GitHub's automatically generated source-code archives. The Minecraft world, account files, and server backups are not included.
+
+## Downloads
+
+The release contains all six client choices, the active server pack, optional shader and resource-pack libraries, and `SHA256SUMS.txt` for download verification. Friends must be invited to this private GitHub repository before the release page will open for them.
 
 ## Server
 
