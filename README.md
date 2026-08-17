@@ -5,9 +5,12 @@ This guide explains how to install the Fabric 26.2 client pack in its own game d
 > [!IMPORTANT]
 > Download exactly one client ZIP from the [Fabric 26.2 Stable release](https://github.com/Dweaver425/modded-survival-26-2-setup/releases/tag/v26.2-stable). Expand **Assets** and ignore GitHub's automatically generated source-code archives. The Minecraft world, account files, and server backups are not included.
 
+> [!WARNING]
+> Public access to this repository and its downloads does **not** grant access to the Minecraft server. Every player must give Dylan their exact Minecraft Java username and be added to the server whitelist before they can join.
+
 ## Downloads
 
-The release contains all six client choices, the active server pack, optional shader and resource-pack libraries, and `SHA256SUMS.txt` for download verification. Friends must be invited to this private GitHub repository before the release page will open for them.
+The public release contains all six client choices, the active server pack, optional shader and resource-pack libraries, and `SHA256SUMS.txt` for download verification. Anyone can download the packs, but only whitelisted players can join the server.
 
 ## Credits And Ownership
 
@@ -24,7 +27,7 @@ See the [complete third-party credits and license ledger](CREDITS.md) for every 
 - **Server name:** Modded Survival
 - **Server address:** `katherine-thorough.tun.ply.gg`
 - **Port:** Do not add one. The Playit address selects the correct public port.
-- **Access:** Your exact Minecraft Java username must be on the whitelist.
+- **Access:** Required whitelist. Give Dylan your exact Minecraft Java username before trying to join.
 
 Use **Multiplayer > Add Server** so the address is saved. Direct Connection also works.
 
@@ -65,6 +68,10 @@ Create a new, empty folder for the selected pack and extract the entire ZIP into
 2. Right-click the downloaded client ZIP and select **Extract All**.
 3. Choose the new folder above as the extraction destination.
 4. Open that folder and confirm that you immediately see `mods`, `config`, and the installation README.
+
+![Separate Minecraft installation folders outside the default .minecraft folder](docs/images/separate-minecraft-installation-folders.png)
+
+The screenshot shows how Dylan keeps different Minecraft installations in one separate `Minecraft Installations` folder. Friends should create only **one** new folder for the client pack they download. The `Fabulously Optimized Test` and `Vanilla Plus Client` folders are Dylan's unrelated installations and are not required for this server.
 
 ### macOS
 
